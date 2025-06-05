@@ -1,0 +1,17 @@
+[
+  {
+    "name": "CARACOL TV",
+    "url": "http://177.8.76.2:8000/play/a0mf",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Caracol_Televisi%C3%B3n_2019_logo.svg"
+  },
+  {
+    "name": "RCN TV",
+    "url": "http://177.8.76.2:8000/play/a0me",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/RCN_Televisi%C3%B3n_2015_logo.svg"
+  },
+  {
+    "name": "CITY TV",
+    "url": "https://live20.bozztv.com/giatv/giatv-ctymaytwo8/ctymaytwo8/chunks.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Citytv_colombia_logo.svg"
+  }
+]
