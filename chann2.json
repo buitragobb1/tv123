@@ -43,5 +43,72 @@
     "nombre": "TELEMUNDO NOVELAS | MX",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.brandemia.org%2Fwp-content%2Fuploads%2F2012%2F06%2Flogo_principal_telemundo.jpg&f=1&nofb=1&ipt=0fbffdc24c236f7a5c1aa755f9669751ca89c9e95c932b1f9e3ba454e026c483"
+  },
+  {
+    "nombre": "TELEVISA NOVELAS | MX",
+    "url": "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngset.com%2Fimages%2Ftelevisa-televisa-logo-outdoors-text-nature-mountain-transparent-png-2754657.png&f=1&nofb=1&ipt=ce9b363b8a0ed4ddc3ee5e9635453f893d45122660a1a8158cb50012d42b9930"
+  },
+  {
+    "nombre": "TELEVISA NOVELAS 2 | MX",
+    "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FTelevisa-logo.png%2Frevision%2Flatest%3Fcb%3D20171128031112&f=1&nofb=1&ipt=6702e41ea9e5bcbd22765748f38f8eaa4e33a6e88ff4141d7a579499325c64b0"
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
+  },
+  {
+    "nombre": "",
+    "url": "",
+    "imagen": ""
   }
+
+
 ]
