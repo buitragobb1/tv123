@@ -1,5 +1,12 @@
 [
   {
-    "url": "http://177.8.76.2:8000/play/a0mf"
+    "nombre": "CARACOL TV | CO",
+    "url": "http://177.8.76.2:8000/play/a0mf",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fcolombia%2Fimages%2F5%2F53%2FCaracolTV2017.png%2Frevision%2Flatest%3Fcb%3D20180323002550%26path-prefix%3Des&f=1&nofb=1&ipt=4c016c97450d5bbeb0836c571406f5508f2703c8d03c505813aca6ce4c9b1d30"
+  },
+  {
+    "nombre": "RCN | CO",
+    "url": "http://177.8.76.2:8000/play/a0me",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
   }
 ]
