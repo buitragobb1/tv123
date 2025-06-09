@@ -5,8 +5,43 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fcolombia%2Fimages%2F5%2F53%2FCaracolTV2017.png%2Frevision%2Flatest%3Fcb%3D20180323002550%26path-prefix%3Des&f=1&nofb=1&ipt=4c016c97450d5bbeb0836c571406f5508f2703c8d03c505813aca6ce4c9b1d30"
   },
   {
+    "nombre": "CARACOL FHD | CO",
+    "url": "https://live20.bozztv.com/giatv/giatv-c1tensixmay/c1tensixmay/chunks.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
+  },
+  {
+    "nombre": "CARACOL HD2 | CO",
+    "url": "https://live20.bozztv.com/giatv/giatv-c2maytensix/c2maytensix/chunks.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
+  },
+  {
+    "nombre": "CARACOL AHORA HD | CO",
+    "url": "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
+  },
+  {
     "nombre": "RCN | CO",
     "url": "http://177.8.76.2:8000/play/a0me",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
+  },
+  {
+    "nombre": "CITY TV | CO",
+    "url": "https://live20.bozztv.com/giatv/giatv-ctymaytwo8/ctymaytwo8/chunks.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Fa%2Faa%2FCitytv-logo-.jpg%2Frevision%2Flatest%3Fcb%3D20140814215257%26path-prefix%3Des&f=1&nofb=1&ipt=e63d609709a580227279d8e917089515411050c90244e5106367ccd865aafce3"
+  },
+  {
+    "nombre": "RCN NOVELAS | CO",
+    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
+  },
+  {
+    "nombre": "SONY NOVELAS HD",
+    "url": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.samsung.com%2Fis%2Fimage%2Fsamsung%2Fassets%2Fmx%2Ftvs%2Fsmart-tv%2Fsamsung-tv-plus%2F2022%2FSeries_Sony_One_Novelas_1000x1000Circle.png&f=1&nofb=1&ipt=9b6448f5de5bf648a49ba9db5f1a8cfd5f4fabbd553a52d22e7bb3c3236c0389"
+  },
+  {
+    "nombre": "TELEMUNDO NOVELAS | MX",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.brandemia.org%2Fwp-content%2Fuploads%2F2012%2F06%2Flogo_principal_telemundo.jpg&f=1&nofb=1&ipt=0fbffdc24c236f7a5c1aa755f9669751ca89c9e95c932b1f9e3ba454e026c483"
   }
 ]
