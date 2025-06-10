@@ -56,57 +56,57 @@
   },
   {
     "nombre": "TELENOVELAS 3 | MX",
-    "url": "",
-    "imagen": ""
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7814-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d6c705-94dd-4af1-8f07-d8b02bcc1884",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FTelevisa-logo.png%2Frevision%2Flatest%3Fcb%3D20171128031112&f=1&nofb=1&ipt=6702e41ea9e5bcbd22765748f38f8eaa4e33a6e88ff4141d7a579499325c64b0"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "PASIONES HD | MX",
+    "url": "http://177.8.76.2:8000/play/a0ru",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fba%2FPasiones_Tv_logo.svg%2F1200px-Pasiones_Tv_logo.svg.png&f=1&nofb=1&ipt=ee7cc158cd403e6f7e0624451fa5a986f6d3dcc02590d78ce92044078b551e39"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "CANAL INSTITUCIONAL | CO",
+    "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fcanal-institucional5877.logowik.com.webp&f=1&nofb=1&ipt=349837acb7ff4dad04921cd73276f6da9938ec9825040d9b7d5819ab7e31fdb3"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "CANAL 2 YOPAL | CO",
+    "url": "http://131.221.41.94/hls/canal2.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJyNXkTudUpW3K6u6NUxzkWIeDN4cwPfj6857Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=b1f7e382029dfca7bb1137dfe8976982de2136b3634a7b7bd7d8f320335399df"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "SURAM TV | CO",
+    "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.live-tv-channels.org%2Ftv-logo%2Fsuram-tv-2356.webp&f=1&nofb=1&ipt=5af81470138644f5b92cbb764e3b90aa0dce4bf61e7af147874758c433b1305d"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "CINEMAX HD",
+    "url": "http://177.8.76.2:8000/play/a0ob",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6a%2FCinemax_LA.png&f=1&nofb=1&ipt=f31249ac005485b939981ed9beaf7576973e3e2d63e084cd3e0d5e7f3821250b"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "El Confidencial HD",
+    "url": "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.periodistadigital.com%2Fimagenes%2F2018%2F07%2F03%2Fel-confidencial_560x280.jpg&f=1&nofb=1&ipt=1e5507f7fd941a79400d4a4510121493c60d9a1fb4a40805ff2cb07013ad18ae"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "Discovery Turbo HD",
+    "url": "http://177.8.76.2:8000/play/a0oa",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fec%2FDiscovery_Turbo_logo.svg%2F1200px-Discovery_Turbo_logo.svg.png&f=1&nofb=1&ipt=583fd15ff841894c0bebaed51c02cf94dea2c719c7485f4979cb48a195e9431e"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "Discovery Theater HD",
+    "url": "http://177.8.76.2:8000/play/a0m4",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7e%2F2015_Discovery_theater_HD_logo.svg%2F1200px-2015_Discovery_theater_HD_logo.svg.png&f=1&nofb=1&ipt=ead82318c75301cca70cf8f84d5f0f14ad1b96184419e1299107ebc0a4add6b0"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "Discovery H&H",
+    "url": "Discovery H&H",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F7%2F7c%2FH%2526h_Discovery.png%2Frevision%2Flatest%3Fcb%3D20180502193819&f=1&nofb=1&ipt=2b5c92c38df6d30a536a578e843e19f32380256f1da4532f812bd3b8b6d0756c"
   },
   {
-    "nombre": "",
-    "url": "",
-    "imagen": ""
+    "nombre": "Discovery HD",
+    "url": "http://177.8.76.2:8000/play/a0sb",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wallpaperflare.com%2Fstatic%2F58%2F337%2F167%2Fdiscovery-channel-science-channel-%25C2%25A0logo-discovery-wallpaper.jpg&f=1&nofb=1&ipt=8ba49ad5d17ecffdc451369bdc51d7b871729f659f90ad47dde81dcfc0d5ffd3"
   }
 ]
