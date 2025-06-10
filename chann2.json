@@ -108,5 +108,10 @@
     "nombre": "Discovery HD",
     "url": "http://177.8.76.2:8000/play/a0sb",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wallpaperflare.com%2Fstatic%2F58%2F337%2F167%2Fdiscovery-channel-science-channel-%25C2%25A0logo-discovery-wallpaper.jpg&f=1&nofb=1&ipt=8ba49ad5d17ecffdc451369bdc51d7b871729f659f90ad47dde81dcfc0d5ffd3"
+  },
+  {
+    "nombre": "Win Sports HD",
+    "url": "http://177.8.76.2:8000/play/a0mz",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F03%2FWinSports2017.png&f=1&nofb=1&ipt=6d8253e9fa45a56ebd35e823371e8f057489917f36eab9e05594a61b1c9aa2b3"
   }
 ]
