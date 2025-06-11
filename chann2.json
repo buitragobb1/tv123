@@ -113,5 +113,45 @@
     "nombre": "Win Sports HD",
     "url": "http://177.8.76.2:8000/play/a0mz",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F03%2FWinSports2017.png&f=1&nofb=1&ipt=6d8253e9fa45a56ebd35e823371e8f057489917f36eab9e05594a61b1c9aa2b3"
+  },
+  {
+    "nombre": "Zoom TV",
+    "url": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.pl%2Fg%2F750%2F72277.jpg&f=1&nofb=1&ipt=125a4020fc1278d088949b588d512ce2e61f15c2de9bf39a8e3b9539f9fce8a9"
+  },
+  {
+    "nombre": "Cali TV | CO",
+    "url": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.live-tv-channels.org%2Ftv-logo%2Fcanal-cali-tv-2063.webp&f=1&nofb=1&ipt=289cbcea6c6273392482cdd17d836960e45d7ac6a42380138f7c1b15ee4eba3b"
+  },
+  {
+    "nombre": "Telepasto | CO",
+    "url": "https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftelepasto.tv%2Fwp-content%2Fuploads%2F2019%2F11%2FTELEPASTO-300x286.png&f=1&nofb=1&ipt=00ca9e584f89cb62dc296260758017133c654add79f817d101b2f5e79da1188e"
+  },
+  {
+    "nombre": "DW DOCUMENTALES",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
+  },
+  {
+    "nombre": "TNT",
+    "url": "http://177.8.76.2:8000/play/a0m5",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Ft_tnt-tv5096.jpg&f=1&nofb=1&ipt=8d4dc8a55a9ee8530578167e3253d402744c77e8dabadb540071c60b975848f0"
+  },
+  {
+    "nombre": "TNT Series HD",
+    "url": "http://177.8.76.2:8000/play/a0mb",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F75%2FTNT_Series_Logo_2016.png&f=1&nofb=1&ipt=e97c60dcb39d0ea6e5a5d29da137b8256761cf811dce3fc8e04e18717fb0f56e"
+  },
+  {
+    "nombre": "Cinecanal HD",
+    "url": "http://177.8.76.2:8000/play/a0lj",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe6%2FCinecanalLA.png&f=1&nofb=1&ipt=1922324ade6a17b977ace3e5f13a0f4112bcd5f7c9b0af4717cf450fdc6a654c"
+  },
+  {
+    "nombre": "Paramount HD",
+    "url": "http://177.8.76.2:8000/play/a0mc",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2021%2F03%2Fparamount-plus-logo-0.png&f=1&nofb=1&ipt=d46ca5ba63cce69fcc5e5801a8473f73e46f5512a8fdee980c90c4a3633215b2"
   }
 ]
