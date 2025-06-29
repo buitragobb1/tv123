@@ -25,14 +25,19 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
   },
   {
-    "nombre": "CITY TV | CO",
-    "url": "https://live20.bozztv.com/giatv/giatv-ctymaytwo8/ctymaytwo8/chunks.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Fa%2Faa%2FCitytv-logo-.jpg%2Frevision%2Flatest%3Fcb%3D20140814215257%26path-prefix%3Des&f=1&nofb=1&ipt=e63d609709a580227279d8e917089515411050c90244e5106367ccd865aafce3"
-  },
-  {
     "nombre": "RCN NOVELAS | CO",
     "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
+  },
+  {
+    "nombre": "RCN Mas | CO",
+    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
+  },
+  {
+    "nombre": "CITY TV | CO",
+    "url": "https://live20.bozztv.com/giatv/giatv-ctymaytwo8/ctymaytwo8/chunks.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Fa%2Faa%2FCitytv-logo-.jpg%2Frevision%2Flatest%3Fcb%3D20140814215257%26path-prefix%3Des&f=1&nofb=1&ipt=e63d609709a580227279d8e917089515411050c90244e5106367ccd865aafce3"
   },
   {
     "nombre": "SONY NOVELAS HD",
@@ -111,7 +116,7 @@
   },
   {
     "nombre": "Win Sports HD",
-    "url": "http://177.8.76.2:8000/play/a0mz",
+    "url": "https://doc1.crackstreamslivehd.com/winplus/tracks-v1a1/mono.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F03%2FWinSports2017.png&f=1&nofb=1&ipt=6d8253e9fa45a56ebd35e823371e8f057489917f36eab9e05594a61b1c9aa2b3"
   },
   {
