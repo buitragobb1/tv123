@@ -140,6 +140,11 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdigitalmediawire.com%2Fwp-content%2Fuploads%2F2017%2F07%2FNBC.jpg&f=1&nofb=1&ipt=ce7c56846dd4786069a82214520c3e9463940d5ae2806e17904cf80dee13f894"
   },
   {
+    "nombre": "NBC New York News",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.nbcnewyork.com%2F2022%2F06%2F1920x1080-New-York.png%3Fresize%3D850%252C478%26quality%3D85%26strip%3Dall&f=1&nofb=1&ipt=caa1db443ab3029182abca834d3ab05770ec15904c67b47a1cfe5e2437711435"
+  },
+  {
     "nombre": "Win Sports HD",
     "url": "https://lima.crackstreamslivehd.com/winplus/tracks-v1a1/mono.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F03%2FWinSports2017.png&f=1&nofb=1&ipt=6d8253e9fa45a56ebd35e823371e8f057489917f36eab9e05594a61b1c9aa2b3"
