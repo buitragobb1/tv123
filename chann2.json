@@ -85,6 +85,11 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.live-tv-channels.org%2Ftv-logo%2Fsuram-tv-2356.webp&f=1&nofb=1&ipt=5af81470138644f5b92cbb764e3b90aa0dce4bf61e7af147874758c433b1305d"
   },
   {
+    "nombre": "Babyshark TV",
+    "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F619d5e6a093e7c0007489211%2FfeaturedImage.jpg&f=1&nofb=1&ipt=dcac7c69a842a4f04c3f709d3f571663eb89c31a0acf13e184f03024d6389b56"
+  },
+  {
     "nombre": "CINEMAX HD",
     "url": "http://177.8.76.2:8000/play/a0ob",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6a%2FCinemax_LA.png&f=1&nofb=1&ipt=f31249ac005485b939981ed9beaf7576973e3e2d63e084cd3e0d5e7f3821250b"
@@ -148,6 +153,11 @@
    "nombre": "ATV+",
    "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D578235334448922&f=1&nofb=1&ipt=e2c6efa4621a646b421bd7d2507aab728e704789ae48505bd905b134723f55f7"
+  },
+  {
+   "nombre": "Azteca Internacional | MX",
+   "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+   "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
   },
   {
     "nombre": "TNT",
