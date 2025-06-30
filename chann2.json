@@ -140,6 +140,11 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
   },
   {
+   "nombre": "Antena 3",
+   "url": "http://185.189.225.150:85/Antena3HD/index.m3u8",
+   "imagen": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-EInOVwfnCZc%2FUOBwYM6ezxI%2FAAAAAAAACpE%2F04oYtfjVWVg%2Fs1600%2Fantena%2B3%2Bonline.jpg&f=1&nofb=1&ipt=0f35d64a85d209ab52f107f56cb46606f238e913c35261c2d1b2ff7bf6b06652"
+  },
+  {
     "nombre": "TNT",
     "url": "http://177.8.76.2:8000/play/a0m5",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Ft_tnt-tv5096.jpg&f=1&nofb=1&ipt=8d4dc8a55a9ee8530578167e3253d402744c77e8dabadb540071c60b975848f0"
