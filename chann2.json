@@ -125,6 +125,16 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wallpaperflare.com%2Fstatic%2F58%2F337%2F167%2Fdiscovery-channel-science-channel-%25C2%25A0logo-discovery-wallpaper.jpg&f=1&nofb=1&ipt=8ba49ad5d17ecffdc451369bdc51d7b871729f659f90ad47dde81dcfc0d5ffd3"
   },
   {
+    "nombre": "National Geographic",
+    "url": "https://fl3.moveonjoy.com/National_Geographic/index.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F--jBVjaKtyks%2FU30yyeyscoI%2FAAAAAAAACZk%2FkMLS-UyRM2k%2Fs1600%2FLogo%2BNational_Geographic_Channel.png&f=1&nofb=1&ipt=d8c50ce7bce8427fb1086f2d474b45a0ae34e00c81b277b1066a013793c9f493"
+  },
+  {
+    "nombre": "National Geographic Wild",
+    "url": "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0e%2F1b%2F89%2F0e1b89a4f2fa743ddf63c661eac2d2c3.jpg&f=1&nofb=1&ipt=e23375533a0b9632dd6e718762e0e68dc7f17cb8e96e9f9cbbbcf66147458172"
+  },
+  {
     "nombre": "Win Sports HD",
     "url": "https://lima.crackstreamslivehd.com/winplus/tracks-v1a1/mono.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F03%2FWinSports2017.png&f=1&nofb=1&ipt=6d8253e9fa45a56ebd35e823371e8f057489917f36eab9e05594a61b1c9aa2b3"
@@ -193,5 +203,10 @@
     "nombre": "MTV Español",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.cults3d.com%2Fuploaders%2F14512816%2Fillustration-file%2Fd1e3bf13-96f7-42a0-96a3-5b7dbcdc514f%2FLogo-Mtv-v1.png&f=1&nofb=1&ipt=ddc2f8a00f92958e62128dc3c723f92176663c569f029e64e9bde434f366025d"
+  },
+  {
+    "nombre": "MTV Spankin' New",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.wHfz6-IZ22PkeaMTc8qCkgHaDt%3Fpid%3DApi&f=1&ipt=21adc7b332e5241081a52a4843bf085da807659e3d74ffee4f45b00294cc836a"
   }
 ]
