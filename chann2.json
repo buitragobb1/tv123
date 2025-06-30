@@ -90,6 +90,11 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F619d5e6a093e7c0007489211%2FfeaturedImage.jpg&f=1&nofb=1&ipt=dcac7c69a842a4f04c3f709d3f571663eb89c31a0acf13e184f03024d6389b56"
   },
   {
+    "nombre": "Babyshark TV | CO",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sr.roku.com%2FidType%2Froku%2Fcontext%2Ftrc%2Fid%2F40d73ba5be775428a377908b02033b4c%2FrokuFeed%2Fassets%2F4ce6216987cf5f78b012fd2d7917e45e.png&f=1&nofb=1&ipt=57928907a8ec3a76dff954d1840ff2d5e393af448ff4378d910fbccc5a417ad8"
+  },
+  {
     "nombre": "CINEMAX HD",
     "url": "http://177.8.76.2:8000/play/a0ob",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6a%2FCinemax_LA.png&f=1&nofb=1&ipt=f31249ac005485b939981ed9beaf7576973e3e2d63e084cd3e0d5e7f3821250b"
@@ -178,5 +183,15 @@
     "nombre": "Paramount HD",
     "url": "http://177.8.76.2:8000/play/a0mc",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2021%2F03%2Fparamount-plus-logo-0.png&f=1&nofb=1&ipt=d46ca5ba63cce69fcc5e5801a8473f73e46f5512a8fdee980c90c4a3633215b2"
+  },
+  {
+    "nombre": "MTV Flow Latino",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2021%2F03%2Fparamount-plus-logo-0.png&f=1&nofb=1&ipt=d46ca5ba63cce69fcc5e5801a8473f73e46f5512a8fdee980c90c4a3633215b2"
+  },
+  {
+    "nombre": "MTV Español",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.cults3d.com%2Fuploaders%2F14512816%2Fillustration-file%2Fd1e3bf13-96f7-42a0-96a3-5b7dbcdc514f%2FLogo-Mtv-v1.png&f=1&nofb=1&ipt=ddc2f8a00f92958e62128dc3c723f92176663c569f029e64e9bde434f366025d"
   }
 ]
