@@ -100,6 +100,16 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fnickelodeon%2Fimages%2Ff%2Ffe%2FNick_Jr._Logo_2023.png%2Frevision%2Flatest%3Fcb%3D20231115002211&f=1&nofb=1&ipt=1f26002bb96e0cc9989bdf177d60aac6373bca7393bfcb1c7e35f97d2a0f9581"
   },
   {
+    "nombre": "Nickelodeon",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvercanalestv.online%2Fwp-content%2Fuploads%2F2021%2F10%2Flogo-Nickelodeon-2048x983.png&f=1&nofb=1&ipt=c9f464436a956dbeed09c2eb716ba8192356d7f64647aa39e3d016f22ef2f7c1"
+  },
+  {
+    "nombre": "Nickelodeon Pluto",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvercanalestv.online%2Fwp-content%2Fuploads%2F2021%2F10%2Flogo-Nickelodeon-2048x983.png&f=1&nofb=1&ipt=c9f464436a956dbeed09c2eb716ba8192356d7f64647aa39e3d016f22ef2f7c1"
+  },
+  {
     "nombre": "CINEMAX HD",
     "url": "http://177.8.76.2:8000/play/a0ob",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6a%2FCinemax_LA.png&f=1&nofb=1&ipt=f31249ac005485b939981ed9beaf7576973e3e2d63e084cd3e0d5e7f3821250b"
@@ -223,5 +233,10 @@
     "nombre": "MTV Spankin' New",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.wHfz6-IZ22PkeaMTc8qCkgHaDt%3Fpid%3DApi&f=1&ipt=21adc7b332e5241081a52a4843bf085da807659e3d74ffee4f45b00294cc836a"
+  },
+  {
+    "nombre": "Retro Music Tv",
+    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectostv.teleame.com%2Fwp-content%2Fuploads%2F2018%2F01%2FRetro-Music-Television-Live-TV-Online.png&f=1&nofb=1&ipt=f462335760fb282c0e70379b1cb63f3f4b7517e974f2965e296583e772d400b1"
   }
 ]
