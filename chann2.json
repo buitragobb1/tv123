@@ -7,21 +7,16 @@
   {
     "nombre": "CARACOL TV 2 FHD | CO",
     "url": "http://172.1.1.254/hls/caracoltv2.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.EbfT9qnZLlRZtN9bZ8HA0gHaHa%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=f4609584d200b262546053e446aa612854ed4a9b29c3371ab35505f04ad3da7d&ipo=images"
   },
   {
     "nombre": "RCN HD | CO",
     "url": "http://172.1.1.253/hls/rcn.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F6%2F6c%2FCaracol_hd2_2015.png%2Frevision%2Flatest%2Fscale-to-width-down%2F220%3Fcb%3D20170516000440&f=1&nofb=1&ipt=82537488d237a1bd6b0c9b08f4978a08a279bb1d8b6beadaae631f053435e085"
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
   },
   {
     "nombre": "RCN HD 2 | CO",
     "url": "http://172.1.1.253/hls/rcn2.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcaracoltv.brightspotcdn.com%2Fdims4%2Fdefault%2F6573b7e%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F1920x1080%2B0%2B0%2Fresize%2F1000x563!%2Fquality%2F90%2F%3Furl%3Dhttp%3A%252F%252Fcaracol-brightspot.s3.amazonaws.com%252F0d%252F3a%252F962602f14d858ff6dff8193094dd%252Fportada-2022-12-15t093300.585.jpg&f=1&nofb=1&ipt=437080daad31e5e627ab32873c94f9817a2fe2aa1bc40db4811c570c0daca6a0"
-  },
-  {
-    "nombre": "RCN | CO",
-    "url": "http://177.8.76.2:8000/play/a0me",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
   },
   {
