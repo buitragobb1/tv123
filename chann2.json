@@ -98,10 +98,5 @@
     "nombre": "MTV Spankin' New",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.wHfz6-IZ22PkeaMTc8qCkgHaDt%3Fpid%3DApi&f=1&ipt=21adc7b332e5241081a52a4843bf085da807659e3d74ffee4f45b00294cc836a"
-  },
-  {
-    "nombre": "Retro Music Tv",
-    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectostv.teleame.com%2Fwp-content%2Fuploads%2F2018%2F01%2FRetro-Music-Television-Live-TV-Online.png&f=1&nofb=1&ipt=f462335760fb282c0e70379b1cb63f3f4b7517e974f2965e296583e772d400b1"
   }
 ]
