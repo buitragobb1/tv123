@@ -93,10 +93,5 @@
     "nombre": "MTV Español",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.cults3d.com%2Fuploaders%2F14512816%2Fillustration-file%2Fd1e3bf13-96f7-42a0-96a3-5b7dbcdc514f%2FLogo-Mtv-v1.png&f=1&nofb=1&ipt=ddc2f8a00f92958e62128dc3c723f92176663c569f029e64e9bde434f366025d"
-  },
-  {
-    "nombre": "MTV Spankin' New",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.wHfz6-IZ22PkeaMTc8qCkgHaDt%3Fpid%3DApi&f=1&ipt=21adc7b332e5241081a52a4843bf085da807659e3d74ffee4f45b00294cc836a"
   }
 ]
