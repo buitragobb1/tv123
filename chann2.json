@@ -5,14 +5,19 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.EbfT9qnZLlRZtN9bZ8HA0gHaHa%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=f4609584d200b262546053e446aa612854ed4a9b29c3371ab35505f04ad3da7d&ipo=images"
   },
   {
-    "nombre": "CARACOL TV | CO",
+    "nombre": "CARACOL TV HD| CO",
     "url": "http://172.1.1.254/hls/caracoltv.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.EbfT9qnZLlRZtN9bZ8HA0gHaHa%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=f4609584d200b262546053e446aa612854ed4a9b29c3371ab35505f04ad3da7d&ipo=images"
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc7%2FCaracol_TV_HD_logo.svg%2F1200px-Caracol_TV_HD_logo.svg.png&f=1&nofb=1&ipt=73ad6bda41a564483cf27ae5105101ba6cc9163da98ec93785efada355d15f34"
+  },
+  {
+    "nombre": "RCN | CO",
+    "url": "http://172.1.1.253/hls/rcn.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
   },
   {
     "nombre": "RCN HD | CO",
     "url": "http://172.1.1.253/hls/rcn.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F0b%2FLogo_RCN_Televisi%25C3%25B3n.png&f=1&nofb=1&ipt=d01b2e3c9a43de7e2435e331129ad1f1b1ec7c3ea7814aa0346c84fb6825ce79"
+    "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
     "nombre": "RCN Mas | CO",
