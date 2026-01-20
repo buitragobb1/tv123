@@ -1,5 +1,4 @@
 {
-  "access_code": "1234",
-  "enabled": true
+  "access_code": ["1234", "5678", "abcd"]
 }
 
