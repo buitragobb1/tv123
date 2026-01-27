@@ -1,28 +1,28 @@
 [
   {
     "nombre": "CARACOL TV | CO",
-    "url": "http://172.1.1.254/hls/caracoltv.m3u8",
+    "url": "http://172.1.1.248/caracoltv1.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.caracoltvcorporativo.com%2Fsites%2Fdefault%2Ffiles%2Flogi.jpg&f=1&nofb=1&ipt=d57eec47fb3e811a8d6ed83ad6e070917651a328a57e38c75dad3e6690831ef8"
   },
   {
     "nombre": "CARACOL TV HD| CO",
-    "url": "http://172.1.1.254/hls/caracoltv.m3u8",
+    "url": "http://172.1.1.248/caracoltv1.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc7%2FCaracol_TV_HD_logo.svg%2F1200px-Caracol_TV_HD_logo.svg.png&f=1&nofb=1&ipt=73ad6bda41a564483cf27ae5105101ba6cc9163da98ec93785efada355d15f34"
   },
   {
     "nombre": "RCN | CO",
-    "url": "http://172.1.1.253/hls/rcn.m3u8",
+    "url": "http://172.1.1.249/rcn1.m3u8",
     "imagen": "https://img.utdstc.com/icon/441/d4a/441d4a669cefaa1967eb63363fa96c9cf0d2de6c83179e33473d19110a39ae8f:200"
   },
   {
     "nombre": "RCN HD | CO",
-    "url": "http://172.1.1.253/hls/rcn.m3u8",
+    "url": "http://172.1.1.249/rcn1.m3u8",
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
-    "nombre": "RCN Mas | CO",
-    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
+    "nombre": "NAT GEO HD",
+    "url": "http://172.1.1.253/hls/natgeohd.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-cdn.nationalgeographic.com%2Fnatgeo%2Fstatic%2Fdefault.NG.logo.dark.jpg&f=1&nofb=1&ipt=62b4ec2c349e629ceeb9947696b58a6cf57f6ce8aa573aeff38bbd1d81ca2740"
   },
   {
     "nombre": "Win Sports | CO",
@@ -33,6 +33,11 @@
     "nombre": "ESPN HD",
     "url": "http://172.1.1.251/espn1.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F224%2F340%2F945%2Ftv-channel-icons-pack-espn-hd-color-png-icon.jpg&f=1&nofb=1&ipt=c81953118dd586b655a9025fb8bb77f5f957a738ec5fe5384073ef2058e6c42f"
+  },
+  {
+    "nombre": "RCN Mas | CO",
+    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
   },
   {
     "nombre": "SONY NOVELAS HD",
