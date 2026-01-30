@@ -11,12 +11,12 @@
   },
   {
     "nombre": "RCN | CO",
-    "url": "http://172.1.1.254/hls/rcn.m3u8",
+    "url": "http://172.1.1.253/hls/rcn.m3u8",
     "imagen": "https://img.utdstc.com/icon/441/d4a/441d4a669cefaa1967eb63363fa96c9cf0d2de6c83179e33473d19110a39ae8f:200"
   },
   {
     "nombre": "RCN HD | CO",
-    "url": "http://172.1.1.254/hls/rcn.m3u8",
+    "url": "http://172.1.1.253/hls/rcn.m3u8",
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
