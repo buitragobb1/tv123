@@ -1,12 +1,12 @@
 [
   {
     "nombre": "CARACOL TV | CO",
-    "url": "http://172.1.1.248/caracoltv.m3u8",
+    "url": "http://172.1.1.254/hls/caracoltv.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.caracoltvcorporativo.com%2Fsites%2Fdefault%2Ffiles%2Flogi.jpg&f=1&nofb=1&ipt=d57eec47fb3e811a8d6ed83ad6e070917651a328a57e38c75dad3e6690831ef8"
   },
   {
     "nombre": "CARACOL TV HD| CO",
-    "url": "http://172.1.1.253/hls/natgeohd.m3u8",
+    "url": "http://172.1.1.254/hls/caracoltv.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc7%2FCaracol_TV_HD_logo.svg%2F1200px-Caracol_TV_HD_logo.svg.png&f=1&nofb=1&ipt=73ad6bda41a564483cf27ae5105101ba6cc9163da98ec93785efada355d15f34"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "nombre": "NAT GEO HD",
-    "url": "http://172.1.1.253/hls/natgeohd.m3u8",
+    "url": "http://172.1.1.248/caracoltv.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-cdn.nationalgeographic.com%2Fnatgeo%2Fstatic%2Fdefault.NG.logo.dark.jpg&f=1&nofb=1&ipt=62b4ec2c349e629ceeb9947696b58a6cf57f6ce8aa573aeff38bbd1d81ca2740"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "nombre": "DISNEY HD",
-    "url": "http://172.1.1.254/hls/disnephd.m3u8",
+    "url": "",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F828564.jpg&f=1&nofb=1&ipt=d01c8575a7b82a20a2445e122cc462b725dc87f861fc3a85243c6efd373e820b"
   },
   {
