@@ -45,27 +45,27 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
   },
   {
-    "nombre": "SONY NOVELAS HD",
+    "nombre": "Sony Novelas HD",
     "url": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.samsung.com%2Fis%2Fimage%2Fsamsung%2Fassets%2Fmx%2Ftvs%2Fsmart-tv%2Fsamsung-tv-plus%2F2022%2FSeries_Sony_One_Novelas_1000x1000Circle.png&f=1&nofb=1&ipt=9b6448f5de5bf648a49ba9db5f1a8cfd5f4fabbd553a52d22e7bb3c3236c0389"
   },
   {
-    "nombre": "TELEVISA NOVELAS | MX",
+    "nombre": "Televisa Novelas",
     "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FTelevisa-logo.png%2Frevision%2Flatest%3Fcb%3D20171128031112&f=1&nofb=1&ipt=6702e41ea9e5bcbd22765748f38f8eaa4e33a6e88ff4141d7a579499325c64b0"
   },
   {
-    "nombre": "CANAL INSTITUCIONAL | CO",
+    "nombre": "Canal Institucional | CO",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fcanal-institucional5877.logowik.com.webp&f=1&nofb=1&ipt=349837acb7ff4dad04921cd73276f6da9938ec9825040d9b7d5819ab7e31fdb3"
   },
   {
-    "nombre": "CANAL 2 YOPAL | CO",
+    "nombre": "Canal 2 Yopal",
     "url": "http://131.221.41.94/hls/canal2.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJyNXkTudUpW3K6u6NUxzkWIeDN4cwPfj6857Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=b1f7e382029dfca7bb1137dfe8976982de2136b3634a7b7bd7d8f320335399df"
   },
   {
-    "nombre": "SURAM TV | CO",
+    "nombre": "Suram TV | CO",
     "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.live-tv-channels.org%2Ftv-logo%2Fsuram-tv-2356.webp&f=1&nofb=1&ipt=5af81470138644f5b92cbb764e3b90aa0dce4bf61e7af147874758c433b1305d"
   },
@@ -95,7 +95,7 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftelepasto.tv%2Fwp-content%2Fuploads%2F2019%2F11%2FTELEPASTO-300x286.png&f=1&nofb=1&ipt=00ca9e584f89cb62dc296260758017133c654add79f817d101b2f5e79da1188e"
   },
   {
-    "nombre": "DW DOCUMENTALES",
+    "nombre": "DW Documentales",
     "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
   },
