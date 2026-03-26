@@ -95,6 +95,21 @@
    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
   },
   {
+   "nombre": "3Cat | ES",
+   "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+   "imagen": "https://play-lh.googleusercontent.com/tuXsnjrA-bltfsZLB4UsyH4o4S370iMzxm8NINYlvxuaXtMpk74BU6PaN_sE8_TQ0q37vfjDBoE7IQ1skruG=w600-h300-pc0xffffff-pd"
+  },
+  {
+   "nombre": "Fuerteventura TV | ES",
+   "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+   "imagen": "https://yt3.googleusercontent.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "nombre": "Galicia TV | ES",
+   "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+   "imagen": "https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png"
+  },
+  {
    "nombre": "Auto Motor Sport | CA",
    "url": "https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8",
    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auto%2C_Motor_und_Sport.svg/1280px-Auto%2C_Motor_und_Sport.svg.png"
