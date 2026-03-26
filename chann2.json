@@ -36,12 +36,12 @@
   },
   {
     "nombre": "ESPN HD",
-    "url": "http://172.1.1.251/espn1.m3u8",
+    "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F224%2F340%2F945%2Ftv-channel-icons-pack-espn-hd-color-png-icon.jpg&f=1&nofb=1&ipt=c81953118dd586b655a9025fb8bb77f5f957a738ec5fe5384073ef2058e6c42f"
   },
   {
     "nombre": "Disney HD",
-    "url": "http://172.1.1.249/disney.m3u8",
+    "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1707659742disney-logo-transparent.png&f=1&nofb=1&ipt=f991c644830181f3208ec7a368a77423667964d9ad2553329bc1f7ce81a33b80"
   },
   {
