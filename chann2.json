@@ -150,6 +150,16 @@
    "imagen": "https://images.seeklogo.com/logo-png/33/1/shark-tank-logo-png_seeklogo-331702.png"
   },
   {
+    "nombre": "Aguacate TV | VE",
+    "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+    "imagen": "https://yt3.googleusercontent.com/lFuSQSHFM0ZGO9KXiBp15cvR8s8uRVBRNhMvR9qaLqHmz0cThZSFKxXQ1vyKj7N24MuIaIRf=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "nombre": "BTA TV | VE",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+    "imagen": "https://btatv.tv/wp-content/uploads/2022/09/logobta.png"
+  },
+  {
     "nombre": "Retro Music Tv",
     "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
     "imagen": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc=w600-h300-pc0xffffff-pd"
