@@ -95,11 +95,6 @@
    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
   },
   {
-   "nombre": "3Cat | ES",
-   "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
-   "imagen": "https://play-lh.googleusercontent.com/tuXsnjrA-bltfsZLB4UsyH4o4S370iMzxm8NINYlvxuaXtMpk74BU6PaN_sE8_TQ0q37vfjDBoE7IQ1skruG=w600-h300-pc0xffffff-pd"
-  },
-  {
    "nombre": "Fuerteventura TV | ES",
    "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
    "imagen": "https://yt3.googleusercontent.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s900-c-k-c0x00ffffff-no-rj"
@@ -118,6 +113,26 @@
    "nombre": "BBC Travel | CA",
    "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
    "imagen": "https://www.lifebeyondbordersblog.com/wp-content/uploads/2016/12/BBC-Travel-Logo.png"
+  },
+  {
+   "nombre": "Bayblade TV | ES",
+   "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
+   "imagen": "https://m.media-amazon.com/images/M/MV5BZDY4YzZkYzEtNTAzNS00NTE0LWIxMDktNmM4MTFmNDQ0NmIzXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+   "nombre": "Mr. Beam Anime | ES",
+   "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+   "imagen": "https://m.media-amazon.com/images/M/MV5BZmY5MjE0ZGItY2Q0My00ZWI5LWJmYTEtYWUyMzFkY2FmZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+   "nombre": "Ideas en 5 minutos | ES",
+   "url": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8",
+   "imagen": "https://yt3.googleusercontent.com/4ZtSGCNVPQExBU9puUom7Z2mrJJCueUJfK5oMYzn3fEY5kASoMw19Q94xWUZzj9VpRVrQZ48=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "nombre": "Crimenes Reales | ES",
+   "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8",
+   "imagen": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/586BB95336C1D5F1E4A8537BD00E68C0BAC1498A3C13109E4255D0DA27906EFE/compose?format=webp&width=2560"
   },
   {
     "nombre": "Retro Music Tv",
