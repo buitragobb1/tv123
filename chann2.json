@@ -30,8 +30,13 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FW%2Fwin-sports-logo-22E3EAAD99-seeklogo.com.png&f=1&nofb=1&ipt=60be75c8fe29d17e2b42ca4055a57480afabceeefb2c652368b25a50c6c0e623"
   },
   {
+    "nombre": "Win Sports+ | CO",
+    "url": "http://172.1.1.252/winsports.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FW%2Fwin-sports-logo-22E3EAAD99-seeklogo.com.png&f=1&nofb=1&ipt=60be75c8fe29d17e2b42ca4055a57480afabceeefb2c652368b25a50c6c0e623"
+  },
+  {
     "nombre": "ESPN 2 HD",
-    "url": "http://172.1.1.245/canal5.m3u8",
+    "url": "http://172.1.1.245/canal6.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F224%2F340%2F945%2Ftv-channel-icons-pack-espn-hd-color-png-icon.jpg&f=1&nofb=1&ipt=c81953118dd586b655a9025fb8bb77f5f957a738ec5fe5384073ef2058e6c42f"
   },
   {
