@@ -96,7 +96,7 @@
   },
   {
     "nombre": "DW Documentales",
-    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+    "url": "http://172.1.254.254:80/live/dw/dw/13.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
   },
   {
