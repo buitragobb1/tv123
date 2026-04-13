@@ -1,12 +1,12 @@
 [
   {
     "nombre": "CARACOL TV | CO",
-    "url": "http://172.1.254.254:80/live/caracol/caracol/5.m3u",
+    "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.caracoltvcorporativo.com%2Fsites%2Fdefault%2Ffiles%2Flogi.jpg&f=1&nofb=1&ipt=d57eec47fb3e811a8d6ed83ad6e070917651a328a57e38c75dad3e6690831ef8"
   },
   {
     "nombre": "CARACOL TV HD| CO",
-    "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.ts",
+    "url": "http://172.1.254.254:80/live/caracol/caracol/5.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc7%2FCaracol_TV_HD_logo.svg%2F1200px-Caracol_TV_HD_logo.svg.png&f=1&nofb=1&ipt=73ad6bda41a564483cf27ae5105101ba6cc9163da98ec93785efada355d15f34"
   },
   {
