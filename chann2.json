@@ -20,13 +20,28 @@
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
+    "nombre": "RCN Mas | CO",
+    "url": "http://172.1.254.254:80/live/rcnnovelas/rcnnovelas/1.ts",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
+  },
+  {
     "nombre": "NAT GEO HD",
-    "url": "http://172.1.1.248/natgeo.m3u8",
+    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/11.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F66%2Fd0%2F11%2F66d0115c90e3325a5372aeb37d0f1728.jpg&f=1&nofb=1&ipt=beefa1f3e42b927fc3c09ef4b986f412d2c17ec1e78446fda220df4da14cb28b"
   },
   {
+    "nombre": "Canal 2 Yopal",
+    "url": "http://172.1.254.254:80/live/canal2/canal2/9.ts",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJyNXkTudUpW3K6u6NUxzkWIeDN4cwPfj6857Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=b1f7e382029dfca7bb1137dfe8976982de2136b3634a7b7bd7d8f320335399df"
+  },
+  {
+    "nombre": "Suram TV | CO",
+    "url": "http://172.1.254.254:80/live/suramtv/suramtv/8.ts",
+    "imagen": "https://play-lh.googleusercontent.com/Av3iAsonC-MQMNVNdrahXWuPbiolKW_skAEvJb8OjTwVVTKOeN00FMlrZ52qMOQMdAXGPCF9Ze7WSXuYvQxRlw=w600-h300-pc0xffffff-pd"
+  },
+  {
     "nombre": "Win Sports | CO",
-    "url": "http://172.1.1.252/winsports.m3u8",
+    "url": "http://172.1.254.254:80/live/winsports/winsports/7.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FW%2Fwin-sports-logo-22E3EAAD99-seeklogo.com.png&f=1&nofb=1&ipt=60be75c8fe29d17e2b42ca4055a57480afabceeefb2c652368b25a50c6c0e623"
   },
   {
@@ -55,11 +70,6 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1707659742disney-logo-transparent.png&f=1&nofb=1&ipt=f991c644830181f3208ec7a368a77423667964d9ad2553329bc1f7ce81a33b80"
   },
   {
-    "nombre": "RCN Mas | CO",
-    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
-  },
-  {
     "nombre": "Televisa Novelas",
     "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FTelevisa-logo.png%2Frevision%2Flatest%3Fcb%3D20171128031112&f=1&nofb=1&ipt=6702e41ea9e5bcbd22765748f38f8eaa4e33a6e88ff4141d7a579499325c64b0"
@@ -68,16 +78,6 @@
     "nombre": "Canal Institucional | CO",
     "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fcanal-institucional5877.logowik.com.webp&f=1&nofb=1&ipt=349837acb7ff4dad04921cd73276f6da9938ec9825040d9b7d5819ab7e31fdb3"
-  },
-  {
-    "nombre": "Canal 2 Yopal",
-    "url": "http://131.221.41.94/hls/canal2.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJyNXkTudUpW3K6u6NUxzkWIeDN4cwPfj6857Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=b1f7e382029dfca7bb1137dfe8976982de2136b3634a7b7bd7d8f320335399df"
-  },
-  {
-    "nombre": "Suram TV | CO",
-    "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
-    "imagen": "https://play-lh.googleusercontent.com/Av3iAsonC-MQMNVNdrahXWuPbiolKW_skAEvJb8OjTwVVTKOeN00FMlrZ52qMOQMdAXGPCF9Ze7WSXuYvQxRlw=w600-h300-pc0xffffff-pd"
   },
   {
     "nombre": "Zoom TV",
