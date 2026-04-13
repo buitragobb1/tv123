@@ -26,17 +26,17 @@
   },
   {
     "nombre": "NAT GEO HD",
-    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/2.ts",
+    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F66%2Fd0%2F11%2F66d0115c90e3325a5372aeb37d0f1728.jpg&f=1&nofb=1&ipt=beefa1f3e42b927fc3c09ef4b986f412d2c17ec1e78446fda220df4da14cb28b"
   },
   {
     "nombre": "Canal 2 Yopal",
-    "url": "http://172.1.254.254:80/live/canal2/canal2/9.ts",
+    "url": "http://172.1.254.254:80/live/canal2/canal2/8.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJyNXkTudUpW3K6u6NUxzkWIeDN4cwPfj6857Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=b1f7e382029dfca7bb1137dfe8976982de2136b3634a7b7bd7d8f320335399df"
   },
   {
     "nombre": "Suram TV | CO",
-    "url": "http://172.1.254.254:80/live/suramtv/suramtv/8.ts",
+    "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.ts",
     "imagen": "https://play-lh.googleusercontent.com/Av3iAsonC-MQMNVNdrahXWuPbiolKW_skAEvJb8OjTwVVTKOeN00FMlrZ52qMOQMdAXGPCF9Ze7WSXuYvQxRlw=w600-h300-pc0xffffff-pd"
   },
   {
