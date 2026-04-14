@@ -79,14 +79,14 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1707659742disney-logo-transparent.png&f=1&nofb=1&ipt=f991c644830181f3208ec7a368a77423667964d9ad2553329bc1f7ce81a33b80"
   },
   {
-    "nombre": "Televisa Novelas",
-    "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FTelevisa-logo.png%2Frevision%2Flatest%3Fcb%3D20171128031112&f=1&nofb=1&ipt=6702e41ea9e5bcbd22765748f38f8eaa4e33a6e88ff4141d7a579499325c64b0"
-  },
-  {
     "nombre": "Canal Institucional | CO",
     "url": "http://172.1.254.254:80/live/canalinstitucional/canalinstitucional/12.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fcanal-institucional5877.logowik.com.webp&f=1&nofb=1&ipt=349837acb7ff4dad04921cd73276f6da9938ec9825040d9b7d5819ab7e31fdb3"
+  },
+  {
+    "nombre": "Televisa Novelas",
+    "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FTelevisa-logo.png%2Frevision%2Flatest%3Fcb%3D20171128031112&f=1&nofb=1&ipt=6702e41ea9e5bcbd22765748f38f8eaa4e33a6e88ff4141d7a579499325c64b0"
   },
   {
     "nombre": "Zoom TV",
