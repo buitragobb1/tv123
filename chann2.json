@@ -3,6 +3,10 @@
     "nombre": "CARACOL TV HD | CO",
     "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.ts",
 "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc7%2FCaracol_TV_HD_logo.svg%2F1200px-Caracol_TV_HD_logo.svg.png&f=1&nofb=1&ipt=73ad6bda41a564483cf27ae5105101ba6cc9163da98ec93785efada355d15f34"
+  },{
+    "nombre": "CARACOL FHD | CO",
+    "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.m3u8",
+"imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc7%2FCaracol_TV_HD_logo.svg%2F1200px-Caracol_TV_HD_logo.svg.png&f=1&nofb=1&ipt=73ad6bda41a564483cf27ae5105101ba6cc9163da98ec93785efada355d15f34"
   },
   {
     "nombre": "CARACOL TV | CO",
@@ -15,13 +19,18 @@
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
+    "nombre": "RCN FHD | CO",
+    "url": "http://172.1.254.254:80/live/rcnhd/rcnhd/4.m3u8",
+    "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
     "nombre": "RCN | CO",
     "url": "http://172.1.254.254:80/live/rcn/rcn/6.ts",
     "imagen": "https://img.utdstc.com/icon/441/d4a/441d4a669cefaa1967eb63363fa96c9cf0d2de6c83179e33473d19110a39ae8f:200"
   },
   {
     "nombre": "RCN Mas | CO",
-    "url": "http://172.1.254.254:80/live/rcnnovelas/rcnnovelas/1.m3u8",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
   },
   {
