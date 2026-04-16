@@ -32,12 +32,12 @@
   {
     "nombre": "Suram TV | CO",
     "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.m3u8",
-    "imagen": "https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2024-07/logo-win.jpeg?itok=ftoi3m32"
+    "imagen": "https://image.roku.com/developer_channels/prod/b0547e25dfeb617021c7e9973cf1166f6e3334c849e375972dd9adacd7f6750b.png"
   },
   {
     "nombre": "Win Sports | CO",
     "url": "http://172.1.254.254:80/live/winsportshd1/winsportshd1/17.ts",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png"
+    "imagen": "https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2024-07/logo-win.jpeg?itok=ftoi3m32"
   },
   {
     "nombre": "Win Sports+ | CO",
