@@ -6,7 +6,7 @@
   },
   {
     "nombre": "CARACOL TV | CO",
-    "url": "http://172.1.254.254:80/live/caracol/caracol/5.ts",
+    "url": "http://172.1.1.254/hls/caracoltv.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.caracoltvcorporativo.com%2Fsites%2Fdefault%2Ffiles%2Flogi.jpg&f=1&nofb=1&ipt=d57eec47fb3e811a8d6ed83ad6e070917651a328a57e38c75dad3e6690831ef8"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "nombre": "RCN | CO",
-    "url": "http://172.1.254.254:80/live/rcn/rcn/6.ts",
+    "url": "http://172.1.1.253/hls/rcn.m3u8",
     "imagen": "https://img.utdstc.com/icon/441/d4a/441d4a669cefaa1967eb63363fa96c9cf0d2de6c83179e33473d19110a39ae8f:200"
   },
   {
@@ -32,7 +32,7 @@
   {
     "nombre": "Suram TV | CO",
     "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.m3u8",
-    "imagen": "https://play-lh.googleusercontent.com/Av3iAsonC-MQMNVNdrahXWuPbiolKW_skAEvJb8OjTwVVTKOeN00FMlrZ52qMOQMdAXGPCF9Ze7WSXuYvQxRlw=w600-h300-pc0xffffff-pd"
+    "imagen": "https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2024-07/logo-win.jpeg?itok=ftoi3m32"
   },
   {
     "nombre": "Win Sports | CO",
@@ -52,12 +52,12 @@
   {
     "nombre": "ESPN 2 HD",
     "url": "http://172.1.254.254:80/live/espn2/espn2/15.ts",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F224%2F340%2F945%2Ftv-channel-icons-pack-espn-hd-color-png-icon.jpg&f=1&nofb=1&ipt=c81953118dd586b655a9025fb8bb77f5f957a738ec5fe5384073ef2058e6c42f"
+    "imagen": "https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png"
   },
   {
     "nombre": "ESPN 3 HD",
     "url": "http://172.1.254.254:80/live/espn3/espn3/16.ts",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F224%2F340%2F945%2Ftv-channel-icons-pack-espn-hd-color-png-icon.jpg&f=1&nofb=1&ipt=c81953118dd586b655a9025fb8bb77f5f957a738ec5fe5384073ef2058e6c42f"
+    "imagen": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg"
   },
   {
     "nombre": "Disney HD",
