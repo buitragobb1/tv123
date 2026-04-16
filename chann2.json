@@ -46,7 +46,7 @@
   },
   {
     "nombre": "ESPN HD",
-    "url": "http://172.1.1.249/canal9.m3u8",
+    "url": "http://172.1.254.254:80/live/espn1/espn1/14.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F224%2F340%2F945%2Ftv-channel-icons-pack-espn-hd-color-png-icon.jpg&f=1&nofb=1&ipt=c81953118dd586b655a9025fb8bb77f5f957a738ec5fe5384073ef2058e6c42f"
   },
   {
@@ -70,14 +70,14 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fcanal-institucional5877.logowik.com.webp&f=1&nofb=1&ipt=349837acb7ff4dad04921cd73276f6da9938ec9825040d9b7d5819ab7e31fdb3"
   },
   {
+    "nombre": "AMC HD",
+    "url": "http://172.1.254.254:80/live/amchd/amchd/2.ts",
+    "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
+  },
+  {
     "nombre": "RCN Mas | CO",
     "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
-  },
-  {
-    "nombre": "AMC HD",
-    "url": "http://172.1.1.252/canal10.m3u8",
-    "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
   },
   {
     "nombre": "Televisa Novelas",
