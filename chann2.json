@@ -56,7 +56,7 @@
   },
   {
     "nombre": "ESPN HD",
-    "url": "http://172.1.254.254:80/live/espn1/espn1/14.ts",
+    "url": "http://172.1.254.254:8086/live/espn1/espn1/14.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F224%2F340%2F945%2Ftv-channel-icons-pack-espn-hd-color-png-icon.jpg&f=1&nofb=1&ipt=c81953118dd586b655a9025fb8bb77f5f957a738ec5fe5384073ef2058e6c42f"
   },
   {
