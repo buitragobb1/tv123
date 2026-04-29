@@ -21,7 +21,7 @@
   },
   {
     "nombre": "NAT GEO HD",
-    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.ts",
+    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F66%2Fd0%2F11%2F66d0115c90e3325a5372aeb37d0f1728.jpg&f=1&nofb=1&ipt=beefa1f3e42b927fc3c09ef4b986f412d2c17ec1e78446fda220df4da14cb28b"
   },
   {
@@ -51,32 +51,32 @@
   },
   {
     "nombre": "ESPN 2 HD",
-    "url": "http://172.1.254.254:80/live/espn2/espn2/15.ts",
+    "url": "http://172.1.254.254:80/live/espn2/espn2/15.m3u8",
     "imagen": "https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png"
   },
   {
     "nombre": "ESPN 3 HD",
-    "url": "http://172.1.254.254:80/live/espn3/espn3/16.ts",
+    "url": "http://172.1.254.254:80/live/espn3/espn3/16.m3u8",
     "imagen": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg"
   },
   {
     "nombre": "Disney HD",
-    "url": "http://172.1.254.254:80/live/disney/disney/11.ts",
+    "url": "http://172.1.254.254:80/live/disney/disney/11.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1707659742disney-logo-transparent.png&f=1&nofb=1&ipt=f991c644830181f3208ec7a368a77423667964d9ad2553329bc1f7ce81a33b80"
   },
   {
     "nombre": "Nick HD",
-    "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.ts",
+    "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.m3u8",
     "imagen": "https://www.citypng.com/public/uploads/preview/hd-nick-nickelodeon-round-logo-icon-png-701751694968184duhavqprfo.png"
   },
   {
     "nombre": "Canal Institucional | CO",
-    "url": "http://172.1.254.254:80/live/canalinstitucional/canalinstitucional/12.ts",
+    "url": "http://172.1.254.254:80/live/canalinstitucional/canalinstitucional/12.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fcanal-institucional5877.logowik.com.webp&f=1&nofb=1&ipt=349837acb7ff4dad04921cd73276f6da9938ec9825040d9b7d5819ab7e31fdb3"
   },
   {
     "nombre": "AMC HD",
-    "url": "http://172.1.254.254:80/live/amchd/amchd/2.ts",
+    "url": "http://172.1.254.254:80/live/amchd/amchd/2.m3u8",
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
   },
   {
