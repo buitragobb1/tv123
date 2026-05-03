@@ -22,17 +22,17 @@
   {
     "nombre": "NAT GEO HD",
     "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F66%2Fd0%2F11%2F66d0115c90e3325a5372aeb37d0f1728.jpg&f=1&nofb=1&ipt=beefa1f3e42b927fc3c09ef4b986f412d2c17ec1e78446fda220df4da14cb28b"
+    "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
   },
   {
     "nombre": "Canal 2 Yopal",
     "url": "http://172.1.254.254:80/live/canal2/canal2/8.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJyNXkTudUpW3K6u6NUxzkWIeDN4cwPfj6857Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=b1f7e382029dfca7bb1137dfe8976982de2136b3634a7b7bd7d8f320335399df"
+    "imagen": "https://i.postimg.cc/hJjBhLx4/CANAL-DOS.jpg"
   },
   {
     "nombre": "Suram TV | CO",
     "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.m3u8",
-    "imagen": "https://image.roku.com/developer_channels/prod/b0547e25dfeb617021c7e9973cf1166f6e3334c849e375972dd9adacd7f6750b.png"
+    "imagen": "https://i.postimg.cc/DWZTmrsS/SURAM-TV.jpg"
   },
   {
     "nombre": "Win Sports | CO",
@@ -47,7 +47,7 @@
   {
     "nombre": "ESPN HD",
     "url": "http://172.1.254.254:80/live/espn1/espn1/14.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F224%2F340%2F945%2Ftv-channel-icons-pack-espn-hd-color-png-icon.jpg&f=1&nofb=1&ipt=c81953118dd586b655a9025fb8bb77f5f957a738ec5fe5384073ef2058e6c42f"
+    "imagen": "https://i.postimg.cc/R3DztWQZ/ESPN-HD.jpg"
   },
   {
     "nombre": "ESPN 2 HD",
@@ -67,7 +67,7 @@
   {
     "nombre": "Disney HD",
     "url": "http://172.1.254.254:80/live/disney/disney/11.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1707659742disney-logo-transparent.png&f=1&nofb=1&ipt=f991c644830181f3208ec7a368a77423667964d9ad2553329bc1f7ce81a33b80"
+    "imagen": "https://i.postimg.cc/Z9RS0830/DISNEY-CHANEL.jpg"
   },
   {
     "nombre": "Nick HD",
@@ -77,7 +77,7 @@
   {
     "nombre": "Canal Institucional | CO",
     "url": "http://172.1.254.254:80/live/canalinstitucional/canalinstitucional/12.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fcanal-institucional5877.logowik.com.webp&f=1&nofb=1&ipt=349837acb7ff4dad04921cd73276f6da9938ec9825040d9b7d5819ab7e31fdb3"
+    "imagen": "https://i.postimg.cc/wtvp3XJj/CANAL-INSTITUCIONAL.jpg"
   },
   {
     "nombre": "AMC HD",
@@ -92,7 +92,7 @@
   {
     "nombre": "Televisa Novelas",
     "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2Fe%2Fee%2FTelevisa-logo.png%2Frevision%2Flatest%3Fcb%3D20171128031112&f=1&nofb=1&ipt=6702e41ea9e5bcbd22765748f38f8eaa4e33a6e88ff4141d7a579499325c64b0"
+    "imagen": "https://i.postimg.cc/jW5bCHNj/TELEVISA.jpg"
   },
   {
     "nombre": "Zoom TV",
