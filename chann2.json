@@ -6,7 +6,7 @@
   },
   {
     "nombre": "CARACOL TV | CO",
-    "url": "http://172.1.1.254/hls/caracoltv.ts",
+    "url": "http://172.1.254.254:80/live/caracol/caracol/5.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.caracoltvcorporativo.com%2Fsites%2Fdefault%2Ffiles%2Flogi.jpg&f=1&nofb=1&ipt=d57eec47fb3e811a8d6ed83ad6e070917651a328a57e38c75dad3e6690831ef8"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "nombre": "RCN | CO",
-    "url": "http://172.1.1.253/hls/rcn.ts",
+    "url": "http://172.1.254.254:80/live/rcn/rcn/6.ts",
     "imagen": "https://img.utdstc.com/icon/441/d4a/441d4a669cefaa1967eb63363fa96c9cf0d2de6c83179e33473d19110a39ae8f:200"
   },
   {
