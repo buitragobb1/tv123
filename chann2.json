@@ -90,6 +90,11 @@
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqOM9IVvbeoAcLvKNTuWNp9wl8oYR3WTB_8Q&s"
   },
   {
+    "nombre": "Pasiones HD",
+    "url": "http://172.1.254.254:80/live/pasioneshd/pasioneshd/20.ts",
+    "imagen": "https://logowik.com/content/uploads/images/pasiones-tv1683.jpg"
+  },
+  {
     "nombre": "RCN Mas | CO",
     "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
