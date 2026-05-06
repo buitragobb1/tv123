@@ -21,47 +21,47 @@
   },
   {
     "nombre": "NAT GEO HD",
-    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
+    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.ts",
     "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
   },
   {
     "nombre": "Canal 2 Yopal",
-    "url": "http://172.1.254.254:80/live/canal2/canal2/8.m3u8",
+    "url": "http://172.1.254.254:80/live/canal2/canal2/8.ts",
     "imagen": "https://i.postimg.cc/hJjBhLx4/CANAL-DOS.jpg"
   },
   {
     "nombre": "Suram TV | CO",
-    "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.m3u8",
+    "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.ts",
     "imagen": "https://i.postimg.cc/DWZTmrsS/SURAM-TV.jpg"
   },
   {
     "nombre": "Win Sports | CO",
-    "url": "http://172.1.254.254:80/live/winsportshd1/winsportshd1/17.m3u8",
+    "url": "http://172.1.254.254:80/live/winsportshd1/winsportshd1/17.ts",
     "imagen": "https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2024-07/logo-win.jpeg?itok=ftoi3m32"
   },
   {
     "nombre": "Win Sports+ | CO",
-    "url": "http://172.1.254.254:80/live/winsportshd/winsportshd/10.m3u8",
+    "url": "http://172.1.254.254:80/live/winsportshd/winsportshd/10.ts",
     "imagen": "https://i.postimg.cc/67mNZ8Lq/WIN.jpg"
   },
   {
     "nombre": "ESPN HD",
-    "url": "http://172.1.254.254:80/live/espn1/espn1/14.m3u8",
+    "url": "http://172.1.254.254:80/live/espn1/espn1/14.ts",
     "imagen": "https://i.postimg.cc/R3DztWQZ/ESPN-HD.jpg"
   },
   {
     "nombre": "ESPN 2 HD",
-    "url": "http://172.1.254.254:80/live/espn2/espn2/15.m3u8",
+    "url": "http://172.1.254.254:80/live/espn2/espn2/15.ts",
     "imagen": "https://i.postimg.cc/Jy2WXsch/ESPN-2.jpg"
   },
   {
     "nombre": "ESPN 3 HD",
-    "url": "http://172.1.254.254:80/live/espn3/espn3/16.m3u8",
+    "url": "http://172.1.254.254:80/live/espn3/espn3/16.ts",
     "imagen": "https://i.postimg.cc/3ycHGkCJ/ESPN-3.jpg"
   },
   {
     "nombre": "DSPORTS HD",
-    "url": "http://172.1.254.254:80/live/dsports/dsports/18.m3u8",
+    "url": "http://172.1.254.254:80/live/dsports/dsports/18.ts",
     "imagen": "https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "nombre": "AMC HD",
-    "url": "http://172.1.254.254:80/live/amchd/amchd/2.m3u8",
+    "url": "http://172.1.254.254:80/live/amchd/amchd/2.ts",
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
   },
   {
