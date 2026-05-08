@@ -85,6 +85,11 @@
     "imagen": "https://www.citypng.com/public/uploads/preview/hd-nick-nickelodeon-round-logo-icon-png-701751694968184duhavqprfo.png"
   },
   {
+    "nombre": "Discovery Kids HD",
+    "url": "http://172.1.254.254:80/live/dkids/dkids/23.ts",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg"
+  },
+  {
     "nombre": "AMC HD",
     "url": "http://172.1.254.254:80/live/amchd/amchd/2.ts",
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
