@@ -75,6 +75,11 @@
     "imagen": "https://i.postimg.cc/Z9RS0830/DISNEY-CHANEL.jpg"
   },
   {
+    "nombre": "Cartoon Networks HD",
+    "url": "http://172.1.254.254:80/live/cnetwork/cnetwork/22.ts",
+    "imagen": "https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg"
+  },
+  {
     "nombre": "Nick HD",
     "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.ts",
     "imagen": "https://www.citypng.com/public/uploads/preview/hd-nick-nickelodeon-round-logo-icon-png-701751694968184duhavqprfo.png"
@@ -92,7 +97,7 @@
   {
     "nombre": "Señal Colombia HD | CO",
     "url": "http://172.1.254.254:80/live/scolombia/scolombia/21.ts",
-    "imagen": "https://lh5.googleusercontent.com/proxy/fjgZ7dRHPqE4MS0dKQ-ZtdbubC0YyrJSQizmxv3OmjoQ_2YHfPGZ5Hg6kLFZ9olZU9K4rjSDfcyB2Zy1wEzx33j6pA9bgQRJtLto3iY-_OL0COnAKASoPEMAZTy2PypR7wAKJnYWC8vRdAlE2J6pOtmr"
+    "imagen": "https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/514-941_import.png"
   },
   {
     "nombre": "Star Channel HD",
