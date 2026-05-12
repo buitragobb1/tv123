@@ -100,6 +100,11 @@
     "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
   },
   {
+    "nombre": "DW Documentales",
+    "url": "http://172.1.254.254:80/live/dw/dw/13.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
+  },
+  {
     "nombre": "RCN Mas | CO",
     "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
@@ -123,11 +128,6 @@
     "nombre": "Telepasto | CO",
     "url": "https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftelepasto.tv%2Fwp-content%2Fuploads%2F2019%2F11%2FTELEPASTO-300x286.png&f=1&nofb=1&ipt=00ca9e584f89cb62dc296260758017133c654add79f817d101b2f5e79da1188e"
-  },
-  {
-    "nombre": "DW Documentales",
-    "url": "http://172.1.254.254:80/live/dw/dw/13.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
   },
   {
    "nombre": "Mr. Beam Anime | ES",
