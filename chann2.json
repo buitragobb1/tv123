@@ -5,19 +5,9 @@
 "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc7%2FCaracol_TV_HD_logo.svg%2F1200px-Caracol_TV_HD_logo.svg.png&f=1&nofb=1&ipt=73ad6bda41a564483cf27ae5105101ba6cc9163da98ec93785efada355d15f34"
   },
   {
-    "nombre": "CARACOL TV | CO",
-    "url": "http://172.1.254.254:80/live/caracol/caracol/5.ts",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.caracoltvcorporativo.com%2Fsites%2Fdefault%2Ffiles%2Flogi.jpg&f=1&nofb=1&ipt=d57eec47fb3e811a8d6ed83ad6e070917651a328a57e38c75dad3e6690831ef8"
-  },
-  {
     "nombre": "RCN HD | CO",
     "url": "http://172.1.254.254:80/live/rcnhd/rcnhd/4.ts",
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "nombre": "RCN | CO",
-    "url": "http://172.1.254.254:80/live/rcn/rcn/6.ts",
-    "imagen": "https://img.utdstc.com/icon/441/d4a/441d4a669cefaa1967eb63363fa96c9cf0d2de6c83179e33473d19110a39ae8f:200"
   },
   {
     "nombre": "NAT GEO HD",
@@ -120,11 +110,6 @@
     "imagen": "https://i.postimg.cc/jW5bCHNj/TELEVISA.jpg"
   },
   {
-    "nombre": "Zoom TV",
-    "url": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.pl%2Fg%2F750%2F72277.jpg&f=1&nofb=1&ipt=125a4020fc1278d088949b588d512ce2e61f15c2de9bf39a8e3b9539f9fce8a9"
-  },
-  {
     "nombre": "Cali TV | CO",
     "url": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.live-tv-channels.org%2Ftv-logo%2Fcanal-cali-tv-2063.webp&f=1&nofb=1&ipt=289cbcea6c6273392482cdd17d836960e45d7ac6a42380138f7c1b15ee4eba3b"
@@ -150,31 +135,6 @@
    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
   },
   {
-   "nombre": "Fuerteventura TV | ES",
-   "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
-   "imagen": "https://yt3.googleusercontent.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-   "nombre": "Galicia TV | ES",
-   "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
-   "imagen": "https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png"
-  },
-  {
-   "nombre": "Auto Motor Sport | CA",
-   "url": "https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8",
-   "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auto%2C_Motor_und_Sport.svg/1280px-Auto%2C_Motor_und_Sport.svg.png"
-  },
-  {
-   "nombre": "BBC Travel | CA",
-   "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
-   "imagen": "https://www.lifebeyondbordersblog.com/wp-content/uploads/2016/12/BBC-Travel-Logo.png"
-  },
-  {
-   "nombre": "Bayblade TV | ES",
-   "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
-   "imagen": "https://m.media-amazon.com/images/M/MV5BZDY4YzZkYzEtNTAzNS00NTE0LWIxMDktNmM4MTFmNDQ0NmIzXkEyXkFqcGc@._V1_.jpg"
-  },
-  {
    "nombre": "Mr. Beam Anime | ES",
    "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
    "imagen": "https://m.media-amazon.com/images/M/MV5BZmY5MjE0ZGItY2Q0My00ZWI5LWJmYTEtYWUyMzFkY2FmZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
@@ -198,11 +158,6 @@
    "nombre": "Sony One Shark Tank | MX",
    "url": "https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8",
    "imagen": "https://images.seeklogo.com/logo-png/33/1/shark-tank-logo-png_seeklogo-331702.png"
-  },
-  {
-    "nombre": "Aguacate TV | VE",
-    "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
-    "imagen": "https://yt3.googleusercontent.com/lFuSQSHFM0ZGO9KXiBp15cvR8s8uRVBRNhMvR9qaLqHmz0cThZSFKxXQ1vyKj7N24MuIaIRf=s900-c-k-c0x00ffffff-no-rj"
   },
   {
     "nombre": "BTA TV | VE",
