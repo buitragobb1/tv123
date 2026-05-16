@@ -90,11 +90,6 @@
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
   },
   {
-    "nombre": "Star Channel HD",
-    "url": "http://172.1.254.254:80/live/starchannel/starchannel/19.ts",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqOM9IVvbeoAcLvKNTuWNp9wl8oYR3WTB_8Q&s"
-  },
-  {
     "nombre": "NAT GEO HD",
     "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.ts",
     "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
