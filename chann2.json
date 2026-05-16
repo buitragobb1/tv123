@@ -116,22 +116,22 @@
   },
   {
    "nombre": "Azteca Internacional | MX",
-   "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+   "url": "http://172.1.254.254:80/live/aztecainternacional/aztecainternacional/28.ts",
    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
   },
   {
     "nombre": "Cali TV | CO",
-    "url": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8",
+    "url": "http://172.1.254.254:80/live/calitv/calitv/25.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.live-tv-channels.org%2Ftv-logo%2Fcanal-cali-tv-2063.webp&f=1&nofb=1&ipt=289cbcea6c6273392482cdd17d836960e45d7ac6a42380138f7c1b15ee4eba3b"
   },
   {
     "nombre": "Telepasto | CO",
-    "url": "https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8",
+    "url": "http://172.1.254.254:80/live/telepasto/telepasto/26.ts",
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftelepasto.tv%2Fwp-content%2Fuploads%2F2019%2F11%2FTELEPASTO-300x286.png&f=1&nofb=1&ipt=00ca9e584f89cb62dc296260758017133c654add79f817d101b2f5e79da1188e"
   },
   {
    "nombre": "Mr. Beam Anime | ES",
-   "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+   "url": "http://172.1.254.254:80/live/mrbeam/mrbeam/29.ts",
    "imagen": "https://m.media-amazon.com/images/M/MV5BZmY5MjE0ZGItY2Q0My00ZWI5LWJmYTEtYWUyMzFkY2FmZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
    "nombre": "Crimenes Reales | ES",
-   "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8",
+   "url": "http://172.1.254.254:80/live/crimenes/crimenes/31.ts",
    "imagen": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/586BB95336C1D5F1E4A8537BD00E68C0BAC1498A3C13109E4255D0DA27906EFE/compose?format=webp&width=2560"
   },
   {
