@@ -72,7 +72,7 @@
   {
     "nombre": "Cartoon Networks HD",
     "url": "http://172.1.254.254:80/live/cnetwork/cnetwork/22.ts",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlz5jAaUCeqMIIU3HiVxAweuQVEf9dCeQFbA&s"
+    "imagen": "https://images.seeklogo.com/logo-png/48/2/cartoon-network-logo-png_seeklogo-480504.png"
   },
   {
     "nombre": "Nick HD",
@@ -98,6 +98,11 @@
     "nombre": "ID HD",
     "url": "http://172.1.254.254:80/live/id/id/36.ts",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxzoNuAP7VssGXARdKdoNkFVcugrgefmP8w&s"
+  },
+  {
+    "nombre": "Pasiones HD | CO",
+    "url": "http://172.1.254.254:80/live/pasioneshd/pasioneshd/19.ts",
+    "imagen": "https://logowik.com/content/uploads/images/pasiones-tv1683.jpg"
   },
   {
     "nombre": "DW Documentales",
