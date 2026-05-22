@@ -72,7 +72,7 @@
   {
     "nombre": "Cartoon Networks HD",
     "url": "http://172.1.254.254:80/live/cnetwork/cnetwork/22.ts",
-    "imagen": "https://images.seeklogo.com/logo-png/48/2/cartoon-network-logo-png_seeklogo-480504.png"
+    "imagen": "https://logowik.com/content/uploads/images/cartoon-network5254.jpg"
   },
   {
     "nombre": "Nick HD",
@@ -82,7 +82,7 @@
   {
     "nombre": "Discovery Kids HD",
     "url": "http://172.1.254.254:80/live/dkids/dkids/23.ts",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png?_=20250628202051"
+    "imagen": "https://media.sketchfab.com/models/5cabcabf3c7b4d5180275188af0bec7b/thumbnails/0e60648b179a4c8e9bfa80a5398c3d66/00abd2c39348443594b4173622ce4a4a.jpeg"
   },
   {
     "nombre": "AMC HD",
@@ -163,11 +163,6 @@
    "nombre": "Canal Vallenato | CO",
    "url": "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8?checkedby:iptvcat.com",
    "imagen": "https://play-lh.googleusercontent.com/K1TgB4CCqWoTDhky17R_YXYCEEunpDZwmEHGXq8w0cv5j2BlN8LyyhoOaHMLuo0wnEg=w600-h300-pc0xffffff-pd"
-  },
-  {
-    "nombre": "BTA TV | VE",
-    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
-    "imagen": "https://btatv.tv/wp-content/uploads/2022/09/logobta.png"
   },
   {
     "nombre": "Retro Music Tv",
