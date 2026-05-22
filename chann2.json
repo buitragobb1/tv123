@@ -75,7 +75,12 @@
     "imagen": "https://logowik.com/content/uploads/images/cartoon-network5254.jpg"
   },
   {
-    "nombre": "Nick HD",
+    "nombre": "Cartoonito HD",
+    "url": "http://172.1.254.254:80/live/cartoonito/cartoonito/34.ts",
+    "imagen": "https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg"
+  },
+  {
+    "nombre": "Nickelodeon HD",
     "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.ts",
     "imagen": "https://www.citypng.com/public/uploads/preview/hd-nick-nickelodeon-round-logo-icon-png-701751694968184duhavqprfo.png"
   },
