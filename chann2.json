@@ -95,11 +95,6 @@
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
   },
   {
-    "nombre": "NAT GEO HD",
-    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.ts",
-    "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
-  },
-  {
     "nombre": "ID HD",
     "url": "http://172.1.254.254:80/live/id/id/36.ts",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxzoNuAP7VssGXARdKdoNkFVcugrgefmP8w&s"
@@ -108,6 +103,11 @@
     "nombre": "Pasiones HD | CO",
     "url": "http://172.1.254.254:80/live/pasioneshd/pasioneshd/19.ts",
     "imagen": "https://logowik.com/content/uploads/images/pasiones-tv1683.jpg"
+  },
+  {
+    "nombre": "NAT GEO HD",
+    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.ts",
+    "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
   },
   {
     "nombre": "DW Documentales",
@@ -120,19 +120,14 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
   },
   {
-    "nombre": "Televisa Novelas",
-    "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-    "imagen": "https://i.postimg.cc/jW5bCHNj/TELEVISA.jpg"
-  },
-  {
    "nombre": "Azteca Internacional | MX",
-   "url": "http://172.1.254.254:80/live/aztecainternacional/aztecainternacional/28.ts",
+   "url": "http://172.1.254.254:80/live/aztecainternacional/aztecainternacional/28.m3u8",
    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
   },
   {
     "nombre": "Cali TV | CO",
     "url": "http://172.1.254.254:80/live/calitv/calitv/25.ts",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.live-tv-channels.org%2Ftv-logo%2Fcanal-cali-tv-2063.webp&f=1&nofb=1&ipt=289cbcea6c6273392482cdd17d836960e45d7ac6a42380138f7c1b15ee4eba3b"
+    "imagen": "https://pbs.twimg.com/profile_images/1188460550403035137/cvXAt2Me_400x400.jpg"
   },
   {
     "nombre": "Telepasto | CO",
@@ -146,7 +141,7 @@
   },
   {
    "nombre": "Ideas en 5 minutos | ES",
-   "url": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8",
+   "url": "http://172.1.254.254:80/live/5m/5m/30.m3u8",
    "imagen": "https://yt3.googleusercontent.com/4ZtSGCNVPQExBU9puUom7Z2mrJJCueUJfK5oMYzn3fEY5kASoMw19Q94xWUZzj9VpRVrQZ48=s900-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -155,18 +150,8 @@
    "imagen": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/586BB95336C1D5F1E4A8537BD00E68C0BAC1498A3C13109E4255D0DA27906EFE/compose?format=webp&width=2560"
   },
   {
-   "nombre": "Historias de Ultratumba | MX",
-   "url": "https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8",
-   "imagen": "https://m.media-amazon.com/images/S/pv-target-images/79dd4e776fabf93d22e621c2fc666c4304e637eeda051af90f1fecdb0d24e113.png"
-  },
-  {
-   "nombre": "Sony One Shark Tank | MX",
-   "url": "https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8",
-   "imagen": "https://images.seeklogo.com/logo-png/33/1/shark-tank-logo-png_seeklogo-331702.png"
-  },
-  {
    "nombre": "Canal Vallenato | CO",
-   "url": "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8?checkedby:iptvcat.com",
+   "url": "http://172.1.254.254:80/live/vallenato/vallenato/27.m3u8",
    "imagen": "https://play-lh.googleusercontent.com/K1TgB4CCqWoTDhky17R_YXYCEEunpDZwmEHGXq8w0cv5j2BlN8LyyhoOaHMLuo0wnEg=w600-h300-pc0xffffff-pd"
   },
   {
