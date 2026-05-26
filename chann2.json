@@ -1,12 +1,12 @@
 [
   {
     "nombre": "CARACOL TV HD | CO",
-    "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.ts",
+    "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.m3u8",
 "imagen": "https://w7.pngwing.com/pngs/993/163/png-transparent-logo-caracol-television-global-and-local-televangelism-television-telepacifico-tv-logos-television-blue-text.png"
   },
   {
     "nombre": "RCN HD | CO",
-    "url": "http://172.1.254.254:80/live/rcnhd/rcnhd/4.ts",
+    "url": "http://172.1.254.254:80/live/rcnhd/rcnhd/4.m3u8",
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -21,92 +21,92 @@
   },
   {
     "nombre": "Canal 2 Yopal",
-    "url": "http://172.1.254.254:80/live/canal2/canal2/8.ts",
+    "url": "http://172.1.254.254:80/live/canal2/canal2/8.m38u",
     "imagen": "https://i.postimg.cc/hJjBhLx4/CANAL-DOS.jpg"
   },
   {
     "nombre": "Suram TV | CO",
-    "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.ts",
+    "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.m3u8",
     "imagen": "https://i.postimg.cc/DWZTmrsS/SURAM-TV.jpg"
   },
   {
     "nombre": "Win Sports | CO",
-    "url": "http://172.1.254.254:80/live/winsportshd1/winsportshd1/17.ts",
+    "url": "http://172.1.254.254:80/live/winsportshd1/winsportshd1/17.m3u8",
     "imagen": "https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2024-07/logo-win.jpeg?itok=ftoi3m32"
   },
   {
     "nombre": "Win Sports+ | CO",
-    "url": "http://172.1.254.254:80/live/winsportshd/winsportshd/10.ts",
+    "url": "http://172.1.254.254:80/live/winsportshd/winsportshd/10.m3u8",
     "imagen": "https://i.postimg.cc/67mNZ8Lq/WIN.jpg"
   },
   {
     "nombre": "ESPN HD",
-    "url": "http://172.1.254.254:80/live/espn1/espn1/14.ts",
+    "url": "http://172.1.254.254:80/live/espn1/espn1/14.m3u8",
     "imagen": "https://i.postimg.cc/R3DztWQZ/ESPN-HD.jpg"
   },
   {
     "nombre": "ESPN 2 HD",
-    "url": "http://172.1.254.254:80/live/espn2/espn2/15.ts",
+    "url": "http://172.1.254.254:80/live/espn2/espn2/15.m3u8",
     "imagen": "https://i.postimg.cc/Jy2WXsch/ESPN-2.jpg"
   },
   {
     "nombre": "ESPN 3 HD",
-    "url": "http://172.1.254.254:80/live/espn3/espn3/16.ts",
+    "url": "http://172.1.254.254:80/live/espn3/espn3/16.m3u8",
     "imagen": "https://i.postimg.cc/3ycHGkCJ/ESPN-3.jpg"
   },
   {
     "nombre": "DSPORTS HD",
-    "url": "http://172.1.254.254:80/live/dsports/dsports/18.ts",
+    "url": "http://172.1.254.254:80/live/dsports/dsports/18.m3u8",
     "imagen": "https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj"
   },
   {
     "nombre": "DSPORTS + HD",
-    "url": "http://172.1.254.254:80/live/dsports+/dsports+/20.ts",
+    "url": "http://172.1.254.254:80/live/dsports+/dsports+/20.m3u8",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0P7leg5VCAST_gUz1nSR-Qx6twQWRcgWQA&s"
   },
   {
     "nombre": "Disney HD",
-    "url": "http://172.1.254.254:80/live/disney/disney/11.ts",
+    "url": "http://172.1.254.254:80/live/disney/disney/11.m3u8",
     "imagen": "https://i.postimg.cc/Z9RS0830/DISNEY-CHANEL.jpg"
   },
   {
     "nombre": "Cartoon Networks HD",
-    "url": "http://172.1.254.254:80/live/cnetwork/cnetwork/22.ts",
+    "url": "http://172.1.254.254:80/live/cnetwork/cnetwork/22.m3u8",
     "imagen": "https://logowik.com/content/uploads/images/cartoon-network5254.jpg"
   },
   {
     "nombre": "Cartoonito HD",
-    "url": "http://172.1.254.254:80/live/cartoonito/cartoonito/34.ts",
+    "url": "http://172.1.254.254:80/live/cartoonito/cartoonito/34.m3u8",
     "imagen": "https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg"
   },
   {
     "nombre": "Nickelodeon HD",
-    "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.ts",
+    "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.m3u8",
     "imagen": "https://www.citypng.com/public/uploads/preview/hd-nick-nickelodeon-round-logo-icon-png-701751694968184duhavqprfo.png"
   },
   {
     "nombre": "Discovery Kids HD",
-    "url": "http://172.1.254.254:80/live/dkids/dkids/23.ts",
+    "url": "http://172.1.254.254:80/live/dkids/dkids/23.m3u8",
     "imagen": "https://media.sketchfab.com/models/5cabcabf3c7b4d5180275188af0bec7b/thumbnails/0e60648b179a4c8e9bfa80a5398c3d66/00abd2c39348443594b4173622ce4a4a.jpeg"
   },
   {
     "nombre": "AMC HD",
-    "url": "http://172.1.254.254:80/live/amchd/amchd/2.ts",
+    "url": "http://172.1.254.254:80/live/amchd/amchd/2.m3u8",
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
   },
   {
     "nombre": "ID HD",
-    "url": "http://172.1.254.254:80/live/id/id/36.ts",
+    "url": "http://172.1.254.254:80/live/id/id/36.m3u8",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxzoNuAP7VssGXARdKdoNkFVcugrgefmP8w&s"
   },
   {
     "nombre": "Pasiones HD | CO",
-    "url": "http://172.1.254.254:80/live/pasioneshd/pasioneshd/19.ts",
+    "url": "http://172.1.254.254:80/live/pasioneshd/pasioneshd/19.m3u8",
     "imagen": "https://logowik.com/content/uploads/images/pasiones-tv1683.jpg"
   },
   {
     "nombre": "NAT GEO HD",
-    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.ts",
+    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
     "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
   },
   {
