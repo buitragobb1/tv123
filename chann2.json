@@ -21,7 +21,7 @@
   },
   {
     "nombre": "Canal 2 Yopal",
-    "url": "http://172.1.254.254:80/live/canal2/canal2/8.m38u",
+    "url": "http://172.1.254.254:80/live/canal2/canal2/8.m3u8",
     "imagen": "https://i.postimg.cc/hJjBhLx4/CANAL-DOS.jpg"
   },
   {
@@ -158,5 +158,14 @@
     "nombre": "Retro Music Tv",
     "url": "http://172.1.254.254:80/live/retromusic/retromusic/35.ts",
     "imagen": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc=w600-h300-pc0xffffff-pd"
+  },{
+    "nombre": "CARACOL TV HD | CO",
+    "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.ts",
+"imagen": "https://w7.pngwing.com/pngs/993/163/png-transparent-logo-caracol-television-global-and-local-televangelism-television-telepacifico-tv-logos-television-blue-text.png"
+  },
+  {
+    "nombre": "RCN HD | CO",
+    "url": "http://172.1.254.254:80/live/rcnhd/rcnhd/4.ts",
+    "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   }
 ]
