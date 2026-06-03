@@ -167,5 +167,14 @@
     "nombre": "RCN HD | CO",
     "url": "http://172.1.254.254:80/live/rcnhd/rcnhd/4.ts",
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
+  },{
+    "nombre": "CARACOL TV HD2 | CO",
+    "url": "http://172.1.254.254:80/live/caracolhd2/caracolhd2/38.ts",
+"imagen": "https://upload.wikimedia.org/wikipedia/commons/7/77/CaracolHD2.png"
+  },
+  {
+    "nombre": "RCN HD2 | CO",
+    "url": "http://172.1.254.254:80/live/rcnhd2/rcnhd2/39.ts",
+    "imagen": "https://static.wikia.nocookie.net/logopedia/images/f/f7/CanalRCNHD2-2023.png/revision/latest/scale-to-width-down/250?cb=20230116202758"
   }
 ]
