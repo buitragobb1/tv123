@@ -10,7 +10,12 @@
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
-    "nombre": "Señal Colombia HD | CO",
+    "nombre": "Canal 1 | CO",
+    "url": "http://172.1.254.254:80/live/canal1/canal1/39.m3u8",
+    "imagen": "https://i.pinimg.com/736x/48/51/4b/48514b27f3159c2d6b6130f9daf56053.jpg"
+  },
+  {
+    "nombre": "Señal Colombia | CO",
     "url": "http://172.1.254.254:80/live/scolombia/scolombia/21.ts",
     "imagen": "https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/514-941_import.png"
   },
@@ -18,6 +23,11 @@
     "nombre": "Canal Institucional | CO",
     "url": "http://172.1.254.254:80/live/canalinstitucional/canalinstitucional/12.ts",
     "imagen": "https://i.postimg.cc/wtvp3XJj/CANAL-INSTITUCIONAL.jpg"
+  },
+  {
+    "nombre": "La Kalle | CO",
+    "url": "http://172.1.254.254:80/live/lakalle/lakalle/38.m3u8",
+"imagen": "https://images.seeklogo.com/logo-png/32/1/la-kalle-la-mandamas-logo-png_seeklogo-322671.png"
   },
   {
     "nombre": "Canal 2 Yopal",
@@ -167,14 +177,5 @@
     "nombre": "RCN HD | CO",
     "url": "http://172.1.254.254:80/live/rcnhd/rcnhd/4.ts",
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
-  },{
-    "nombre": "CARACOL TV HD2 | CO",
-    "url": "http://172.1.254.254:80/live/caracolhd2/caracolhd2/38.ts",
-"imagen": "https://upload.wikimedia.org/wikipedia/commons/7/77/CaracolHD2.png"
-  },
-  {
-    "nombre": "RCN HD2 | CO",
-    "url": "http://172.1.254.254:80/live/rcnhd2/rcnhd2/39.ts",
-    "imagen": "https://static.wikia.nocookie.net/logopedia/images/f/f7/CanalRCNHD2-2023.png/revision/latest/scale-to-width-down/250?cb=20230116202758"
   }
 ]
