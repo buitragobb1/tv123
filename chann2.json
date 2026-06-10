@@ -10,11 +10,6 @@
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
-    "nombre": "Canal 1 | CO",
-    "url": "http://172.1.254.254:80/live/canal1/canal1/39.m3u8",
-    "imagen": "https://i.pinimg.com/736x/48/51/4b/48514b27f3159c2d6b6130f9daf56053.jpg"
-  },
-  {
     "nombre": "Señal Colombia | CO",
     "url": "http://172.1.254.254:80/live/scolombia/scolombia/21.ts",
     "imagen": "https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/514-941_import.png"
