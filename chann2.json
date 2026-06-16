@@ -1,7 +1,7 @@
 [
   {
     "nombre": "CARACOL TV HD | CO",
-    "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.m3u8",
+    "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.ts",
 "imagen": "https://w7.pngwing.com/pngs/993/163/png-transparent-logo-caracol-television-global-and-local-televangelism-television-telepacifico-tv-logos-television-blue-text.png"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "nombre": "La Kalle | CO",
-    "url": "http://172.1.254.254:80/live/lakalle/lakalle/38.m3u8",
+    "url": "http://172.1.254.254:80/live/lakalle/lakalle/38.ts",
     "imagen": "https://nicolasrodriguez.dev/wp-content/uploads/2025/09/logo-la-kalle.webp"
   },
   {
