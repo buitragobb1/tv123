@@ -11,12 +11,12 @@
   },
   {
     "nombre": "Señal Colombia | CO",
-    "url": "http://172.1.254.254:80/live/scolombia/scolombia/21.ts",
+    "url": "http://172.1.254.254:80/live/scolombia/scolombia/21.m3u8",
     "imagen": "https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/514-941_import.png"
   },
   {
     "nombre": "Canal Institucional | CO",
-    "url": "http://172.1.254.254:80/live/canalinstitucional/canalinstitucional/12.ts",
+    "url": "http://172.1.254.254:80/live/canalinstitucional/canalinstitucional/12.m3u8",
     "imagen": "https://i.postimg.cc/wtvp3XJj/CANAL-INSTITUCIONAL.jpg"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "nombre": "La Kalle | CO",
-    "url": "http://172.1.254.254:80/live/lakalle/lakalle/38.ts",
+    "url": "http://172.1.254.254:80/live/lakalle/lakalle/38.m3u8",
     "imagen": "https://nicolasrodriguez.dev/wp-content/uploads/2025/09/logo-la-kalle.webp"
   },
   {
@@ -161,17 +161,17 @@
   },
   {
    "nombre": "Crimenes Reales | ES",
-   "url": "http://172.1.254.254:80/live/crimenes/crimenes/31.ts",
+   "url": "http://172.1.254.254:80/live/crimenes/crimenes/31.m3u8",
    "imagen": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/586BB95336C1D5F1E4A8537BD00E68C0BAC1498A3C13109E4255D0DA27906EFE/compose?format=webp&width=2560"
   },
   {
    "nombre": "Canal Vallenato | CO",
-   "url": "http://172.1.254.254:80/live/vallenato/vallenato/27.ts",
+   "url": "http://172.1.254.254:80/live/vallenato/vallenato/27.m3u8",
    "imagen": "https://play-lh.googleusercontent.com/K1TgB4CCqWoTDhky17R_YXYCEEunpDZwmEHGXq8w0cv5j2BlN8LyyhoOaHMLuo0wnEg=w600-h300-pc0xffffff-pd"
   },
   {
     "nombre": "Retro Music Tv",
-    "url": "http://172.1.254.254:80/live/retromusic/retromusic/35.ts",
+    "url": "http://172.1.254.254:80/live/retromusic/retromusic/35.m3u8",
     "imagen": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc=w600-h300-pc0xffffff-pd"
   },{
     "nombre": "CARACOL TV HD | CO",
