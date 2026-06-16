@@ -20,6 +20,11 @@
     "imagen": "https://i.postimg.cc/wtvp3XJj/CANAL-INSTITUCIONAL.jpg"
   },
   {
+    "nombre": "Telepacifico | CO",
+    "url": "http://172.1.254.254:80/live/telepacifico/telepacifico/41.m3u8",
+    "imagen": "https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png"
+  },
+  {
     "nombre": "La Kalle | CO",
     "url": "http://172.1.254.254:80/live/lakalle/lakalle/38.ts",
     "imagen": "https://nicolasrodriguez.dev/wp-content/uploads/2025/09/logo-la-kalle.webp"
