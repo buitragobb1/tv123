@@ -130,6 +130,11 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
   },
   {
+    "nombre": "CNN",
+    "url": "http://172.1.254.254:80/live/cnn/cnn/46.m3u8",
+    "imagen": "https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png"
+  },
+  {
     "nombre": "Enlace",
     "url": "http://172.1.254.254:80/live/enlace/enlace/42.m3u8",
     "imagen": "https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"
