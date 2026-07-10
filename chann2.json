@@ -104,6 +104,17 @@
     "url": "http://172.1.254.254:80/live/amchd/amchd/2.m3u8",
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
   },
+
+  {
+    "nombre": "TNT HD",
+    "url": "http://172.1.254.254:80/live/tnthd/tnthd/48.m3u8",
+    "imagen": "https://hd-report.com/wp-content/uploads/2023/03/TNT-logo-with-background.jpg"
+  },
+  {
+    "nombre": "HBO HD",
+    "url": "http://172.1.254.254:80/live/hbo/hbo/49.m3u8",
+    "imagen": "https://creations.panzoid.com/creation-thumbnails/97670.jpg"
+  },
   {
     "nombre": "ID HD",
     "url": "http://172.1.254.254:80/live/id/id/36.m3u8",
@@ -118,6 +129,11 @@
     "nombre": "NAT GEO HD",
     "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
     "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
+  },
+  {
+    "nombre": "DISCOVERY HD",
+    "url": "http://172.1.254.254:80/live/discoveryhd/discoveryhd/47.m3u8",
+    "imagen": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
   },
   {
     "nombre": "RT Documentales",
