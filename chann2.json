@@ -126,6 +126,16 @@
     "imagen": "https://logosandtypes.com/wp-content/uploads/2020/08/Univision.png"
   },
   {
+    "nombre": "RCN Mas | CO",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
+  },
+  {
+   "nombre": "Azteca Internacional | MX",
+   "url": "http://172.1.254.254:80/live/aztecainternacional/aztecainternacional/28.m3u8",
+   "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
+  },
+  {
     "nombre": "NAT GEO HD",
     "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
     "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
@@ -159,16 +169,6 @@
     "nombre": "Bethel",
     "url": "http://172.1.254.254:80/live/bethel/bethel/43.m3u8",
     "imagen": "https://play-lh.googleusercontent.com/IwNmyhjd_gKfEduH0T83hEkiuba3CuVSA1tV6cvY-rX584gPteouaeknIzqFqoauks4"
-  },
-  {
-    "nombre": "RCN Mas | CO",
-    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
-  },
-  {
-   "nombre": "Azteca Internacional | MX",
-   "url": "http://172.1.254.254:80/live/aztecainternacional/aztecainternacional/28.m3u8",
-   "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
   },
   {
     "nombre": "Cali TV | CO",
