@@ -40,6 +40,137 @@
     "imagen": "https://i.postimg.cc/DWZTmrsS/SURAM-TV.jpg"
   },
   {
+    "nombre": "Cali TV",
+    "url": "http://172.1.254.254:80/live/calitv/calitv/25.m3u8",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxaL9-Nh9CMXFjNfD3fAUz5al7q3fBcu2cLOlL73zNWOqCJ8ItBkxt1X8&s=10"
+  },
+  {
+    "nombre": "Telepasto",
+    "url": "http://172.1.254.254:80/live/telepasto/telepasto/26.m3u8",
+    "imagen": "https://pbs.twimg.com/profile_images/1188460550403035137/cvXAt2Me_400x400.jpg"
+  },
+  {
+    "nombre": "NAT GEO HD",
+    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
+    "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
+  },
+  {
+    "nombre": "DISCOVERY HD",
+    "url": "http://172.1.254.254:80/live/discoveryhd/discoveryhd/47.m3u8",
+    "imagen": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
+  },
+  {
+    "nombre": "RT Documentales",
+    "url": "http://172.1.254.254:80/live/rt/rt/40.m3u8",
+    "imagen": "https://actualidad.rt.com/static/img/og/logo-rt-black.jpg"
+  },
+  {
+    "nombre": "DW Documentales",
+    "url": "http://172.1.254.254:80/live/dw/dw/13.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
+  },
+  {
+    "nombre": "Disney HD",
+    "url": "http://172.1.254.254:80/live/disney/disney/11.m3u8",
+    "imagen": "https://i.postimg.cc/Z9RS0830/DISNEY-CHANEL.jpg"
+  },
+  {
+    "nombre": "Cartoon Networks HD",
+    "url": "http://172.1.254.254:80/live/cnetwork/cnetwork/22.m3u8",
+    "imagen": "https://logowik.com/content/uploads/images/cartoon-network5254.jpg"
+  },
+  {
+    "nombre": "Cartoonito HD",
+    "url": "http://172.1.254.254:80/live/cartoonito/cartoonito/34.m3u8",
+    "imagen": "https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg"
+  },
+  {
+    "nombre": "Nickelodeon HD",
+    "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.m3u8",
+    "imagen": "https://www.citypng.com/public/uploads/preview/hd-nick-nickelodeon-round-logo-icon-png-701751694968184duhavqprfo.png"
+  },
+  {
+    "nombre": "Discovery Kids HD",
+    "url": "http://172.1.254.254:80/live/dkids/dkids/23.m3u8",
+    "imagen": "https://media.sketchfab.com/models/5cabcabf3c7b4d5180275188af0bec7b/thumbnails/0e60648b179a4c8e9bfa80a5398c3d66/00abd2c39348443594b4173622ce4a4a.jpeg"
+  },
+  {
+    "nombre": "Univision HD | CO",
+    "url": "http://172.1.254.254:80/live/pasioneshd/pasioneshd/19.m3u8",
+    "imagen": "https://logosandtypes.com/wp-content/uploads/2020/08/Univision.png"
+  },
+  {
+    "nombre": "RCN Mas | CO",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
+  },
+  {
+   "nombre": "Azteca Internacional",
+   "url": "http://172.1.254.254:80/live/aztecainternacional/aztecainternacional/28.m3u8",
+   "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
+  },
+  {
+   "nombre": "ENT TV",
+   "url": "http://172.1.254.254:80/live/ent/ent/24.m3u8",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
+  },
+  {
+    "nombre": "AMC HD",
+    "url": "http://172.1.254.254:80/live/amchd/amchd/2.m3u8",
+    "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
+  },
+
+  {
+    "nombre": "TNT HD",
+    "url": "http://172.1.254.254:80/live/tnthd/tnthd/48.m3u8",
+    "imagen": "https://hd-report.com/wp-content/uploads/2023/03/TNT-logo-with-background.jpg"
+  },
+  {
+    "nombre": "HBO HD",
+    "url": "http://172.1.254.254:80/live/hbo/hbo/49.m3u8",
+    "imagen": "https://yt3.googleusercontent.com/wKCeKgOUsAmSCMvwnxi9wAWlWC42PJXvIGH98pZfWjgsg6omDUhFgJodSet7hP4GOj0YkKwljA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "nombre": "Cinecanal HD",
+    "url": "http://172.1.254.254:80/live/id/id/36.m3u8",
+    "imagen": "https://i.pinimg.com/736x/1f/1f/23/1f1f2398e2763d3df283c7747d2f4925.jpg"
+  },
+  {
+    "nombre": "Enlace",
+    "url": "http://172.1.254.254:80/live/enlace/enlace/42.m3u8",
+    "imagen": "https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"
+  },
+  {
+    "nombre": "Bethel",
+    "url": "http://172.1.254.254:80/live/bethel/bethel/43.m3u8",
+    "imagen": "https://play-lh.googleusercontent.com/IwNmyhjd_gKfEduH0T83hEkiuba3CuVSA1tV6cvY-rX584gPteouaeknIzqFqoauks4"
+  },
+  {
+   "nombre": "Mr. Beam Anime",
+   "url": "http://172.1.254.254:80/live/mrbeam/mrbeam/29.m3u8",
+   "imagen": "https://m.media-amazon.com/images/M/MV5BZmY5MjE0ZGItY2Q0My00ZWI5LWJmYTEtYWUyMzFkY2FmZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+   "nombre": "Ideas en 5 minutos",
+   "url": "http://172.1.254.254:80/live/5m/5m/30.m3u8",
+   "imagen": "https://yt3.googleusercontent.com/4ZtSGCNVPQExBU9puUom7Z2mrJJCueUJfK5oMYzn3fEY5kASoMw19Q94xWUZzj9VpRVrQZ48=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "nombre": "Crimenes Reales",
+   "url": "http://172.1.254.254:80/live/crimenes/crimenes/31.m3u8",
+   "imagen": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/586BB95336C1D5F1E4A8537BD00E68C0BAC1498A3C13109E4255D0DA27906EFE/compose?format=webp&width=2560"
+  },
+  {
+   "nombre": "Music TV",
+   "url": "http://172.1.254.254:80/live/vallenato/vallenato/27.m3u8",
+   "imagen": "https://www.shutterstock.com/image-vector/music-tv-logo-design-templatemusic-260nw-1807580383.jpg"
+  },
+  {
+    "nombre": "Retro Music Tv",
+    "url": "http://172.1.254.254:80/live/retromusic/retromusic/35.m3u8",
+    "imagen": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc=w600-h300-pc0xffffff-pd"
+  },
+  {
     "nombre": "Win Sports | CO",
     "url": "http://172.1.254.254:80/live/winsportshd1/winsportshd1/17.m3u8",
     "imagen": "https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2024-07/logo-win.jpeg?itok=ftoi3m32"
@@ -73,136 +204,5 @@
     "nombre": "DSPORTS + HD",
     "url": "http://172.1.254.254:80/live/dsports+/dsports+/20.m3u8",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0P7leg5VCAST_gUz1nSR-Qx6twQWRcgWQA&s"
-  },
-  {
-    "nombre": "Disney HD",
-    "url": "http://172.1.254.254:80/live/disney/disney/11.m3u8",
-    "imagen": "https://i.postimg.cc/Z9RS0830/DISNEY-CHANEL.jpg"
-  },
-  {
-    "nombre": "Cartoon Networks HD",
-    "url": "http://172.1.254.254:80/live/cnetwork/cnetwork/22.m3u8",
-    "imagen": "https://logowik.com/content/uploads/images/cartoon-network5254.jpg"
-  },
-  {
-    "nombre": "Cartoonito HD",
-    "url": "http://172.1.254.254:80/live/cartoonito/cartoonito/34.m3u8",
-    "imagen": "https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg"
-  },
-  {
-    "nombre": "Nickelodeon HD",
-    "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.m3u8",
-    "imagen": "https://www.citypng.com/public/uploads/preview/hd-nick-nickelodeon-round-logo-icon-png-701751694968184duhavqprfo.png"
-  },
-  {
-    "nombre": "Discovery Kids HD",
-    "url": "http://172.1.254.254:80/live/dkids/dkids/23.m3u8",
-    "imagen": "https://media.sketchfab.com/models/5cabcabf3c7b4d5180275188af0bec7b/thumbnails/0e60648b179a4c8e9bfa80a5398c3d66/00abd2c39348443594b4173622ce4a4a.jpeg"
-  },
-  {
-   "nombre": "ENT TV",
-   "url": "http://172.1.254.254:80/live/ent/ent/24.m3u8",
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
-  },
-  {
-    "nombre": "AMC HD",
-    "url": "http://172.1.254.254:80/live/amchd/amchd/2.m3u8",
-    "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
-  },
-
-  {
-    "nombre": "TNT HD",
-    "url": "http://172.1.254.254:80/live/tnthd/tnthd/48.m3u8",
-    "imagen": "https://hd-report.com/wp-content/uploads/2023/03/TNT-logo-with-background.jpg"
-  },
-  {
-    "nombre": "HBO HD",
-    "url": "http://172.1.254.254:80/live/hbo/hbo/49.m3u8",
-    "imagen": "https://yt3.googleusercontent.com/wKCeKgOUsAmSCMvwnxi9wAWlWC42PJXvIGH98pZfWjgsg6omDUhFgJodSet7hP4GOj0YkKwljA=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "nombre": "Cinecanal HD",
-    "url": "http://172.1.254.254:80/live/id/id/36.m3u8",
-    "imagen": "https://i.pinimg.com/736x/1f/1f/23/1f1f2398e2763d3df283c7747d2f4925.jpg"
-  },
-  {
-    "nombre": "Univision HD | CO",
-    "url": "http://172.1.254.254:80/live/pasioneshd/pasioneshd/19.m3u8",
-    "imagen": "https://logosandtypes.com/wp-content/uploads/2020/08/Univision.png"
-  },
-  {
-    "nombre": "RCN Mas | CO",
-    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
-  },
-  {
-   "nombre": "Azteca Internacional",
-   "url": "http://172.1.254.254:80/live/aztecainternacional/aztecainternacional/28.m3u8",
-   "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
-  },
-  {
-    "nombre": "NAT GEO HD",
-    "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
-    "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
-  },
-  {
-    "nombre": "DISCOVERY HD",
-    "url": "http://172.1.254.254:80/live/discoveryhd/discoveryhd/47.m3u8",
-    "imagen": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
-  },
-  {
-    "nombre": "RT Documentales",
-    "url": "http://172.1.254.254:80/live/rt/rt/40.m3u8",
-    "imagen": "https://actualidad.rt.com/static/img/og/logo-rt-black.jpg"
-  },
-  {
-    "nombre": "DW Documentales",
-    "url": "http://172.1.254.254:80/live/dw/dw/13.m3u8",
-    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newslinereport.com%2Fonline%2Fnota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg&f=1&nofb=1&ipt=4f82281abf6962916aadd5a6fc1adaf6ebd92b165e5adf87b4eb34c2930daaa1"
-  },
-  {
-    "nombre": "Enlace",
-    "url": "http://172.1.254.254:80/live/enlace/enlace/42.m3u8",
-    "imagen": "https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"
-  },
-  {
-    "nombre": "Bethel",
-    "url": "http://172.1.254.254:80/live/bethel/bethel/43.m3u8",
-    "imagen": "https://play-lh.googleusercontent.com/IwNmyhjd_gKfEduH0T83hEkiuba3CuVSA1tV6cvY-rX584gPteouaeknIzqFqoauks4"
-  },
-  {
-    "nombre": "Cali TV",
-    "url": "http://172.1.254.254:80/live/calitv/calitv/25.m3u8",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxaL9-Nh9CMXFjNfD3fAUz5al7q3fBcu2cLOlL73zNWOqCJ8ItBkxt1X8&s=10"
-  },
-  {
-    "nombre": "Telepasto",
-    "url": "http://172.1.254.254:80/live/telepasto/telepasto/26.m3u8",
-    "imagen": "https://pbs.twimg.com/profile_images/1188460550403035137/cvXAt2Me_400x400.jpg"
-  },
-  {
-   "nombre": "Mr. Beam Anime",
-   "url": "http://172.1.254.254:80/live/mrbeam/mrbeam/29.m3u8",
-   "imagen": "https://m.media-amazon.com/images/M/MV5BZmY5MjE0ZGItY2Q0My00ZWI5LWJmYTEtYWUyMzFkY2FmZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-  },
-  {
-   "nombre": "Ideas en 5 minutos",
-   "url": "http://172.1.254.254:80/live/5m/5m/30.m3u8",
-   "imagen": "https://yt3.googleusercontent.com/4ZtSGCNVPQExBU9puUom7Z2mrJJCueUJfK5oMYzn3fEY5kASoMw19Q94xWUZzj9VpRVrQZ48=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-   "nombre": "Crimenes Reales",
-   "url": "http://172.1.254.254:80/live/crimenes/crimenes/31.m3u8",
-   "imagen": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/586BB95336C1D5F1E4A8537BD00E68C0BAC1498A3C13109E4255D0DA27906EFE/compose?format=webp&width=2560"
-  },
-  {
-   "nombre": "Music TV",
-   "url": "http://172.1.254.254:80/live/vallenato/vallenato/27.m3u8",
-   "imagen": "https://www.shutterstock.com/image-vector/music-tv-logo-design-templatemusic-260nw-1807580383.jpg"
-  },
-  {
-    "nombre": "Retro Music Tv",
-    "url": "http://172.1.254.254:80/live/retromusic/retromusic/35.m3u8",
-    "imagen": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc=w600-h300-pc0xffffff-pd"
   }
 ]
