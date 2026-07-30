@@ -100,6 +100,11 @@
     "imagen": "https://media.sketchfab.com/models/5cabcabf3c7b4d5180275188af0bec7b/thumbnails/0e60648b179a4c8e9bfa80a5398c3d66/00abd2c39348443594b4173622ce4a4a.jpeg"
   },
   {
+   "nombre": "ENT TV",
+   "url": "http://172.1.254.254:80/live/ent/ent/24.m3u8",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
+  },
+  {
     "nombre": "AMC HD",
     "url": "http://172.1.254.254:80/live/amchd/amchd/2.m3u8",
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
@@ -171,32 +176,32 @@
     "imagen": "https://play-lh.googleusercontent.com/IwNmyhjd_gKfEduH0T83hEkiuba3CuVSA1tV6cvY-rX584gPteouaeknIzqFqoauks4"
   },
   {
-    "nombre": "Cali TV | CO",
+    "nombre": "Cali TV",
     "url": "http://172.1.254.254:80/live/calitv/calitv/25.m3u8",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxaL9-Nh9CMXFjNfD3fAUz5al7q3fBcu2cLOlL73zNWOqCJ8ItBkxt1X8&s=10"
   },
   {
-    "nombre": "Telepasto | CO",
+    "nombre": "Telepasto",
     "url": "http://172.1.254.254:80/live/telepasto/telepasto/26.m3u8",
     "imagen": "https://pbs.twimg.com/profile_images/1188460550403035137/cvXAt2Me_400x400.jpg"
   },
   {
-   "nombre": "Mr. Beam Anime | ES",
+   "nombre": "Mr. Beam Anime",
    "url": "http://172.1.254.254:80/live/mrbeam/mrbeam/29.m3u8",
    "imagen": "https://m.media-amazon.com/images/M/MV5BZmY5MjE0ZGItY2Q0My00ZWI5LWJmYTEtYWUyMzFkY2FmZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
-   "nombre": "Ideas en 5 minutos | ES",
+   "nombre": "Ideas en 5 minutos",
    "url": "http://172.1.254.254:80/live/5m/5m/30.m3u8",
    "imagen": "https://yt3.googleusercontent.com/4ZtSGCNVPQExBU9puUom7Z2mrJJCueUJfK5oMYzn3fEY5kASoMw19Q94xWUZzj9VpRVrQZ48=s900-c-k-c0x00ffffff-no-rj"
   },
   {
-   "nombre": "Crimenes Reales | ES",
+   "nombre": "Crimenes Reales",
    "url": "http://172.1.254.254:80/live/crimenes/crimenes/31.m3u8",
    "imagen": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/586BB95336C1D5F1E4A8537BD00E68C0BAC1498A3C13109E4255D0DA27906EFE/compose?format=webp&width=2560"
   },
   {
-   "nombre": "Music TV | CO",
+   "nombre": "Music TV",
    "url": "http://172.1.254.254:80/live/vallenato/vallenato/27.m3u8",
    "imagen": "https://www.shutterstock.com/image-vector/music-tv-logo-design-templatemusic-260nw-1807580383.jpg"
   },
