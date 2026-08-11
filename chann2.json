@@ -136,11 +136,6 @@
     "imagen": "https://i.pinimg.com/736x/1f/1f/23/1f1f2398e2763d3df283c7747d2f4925.jpg"
   },
   {
-    "nombre": "Enlace",
-    "url": "http://172.1.254.254:80/live/enlace/enlace/42.m3u8",
-    "imagen": "https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"
-  },
-  {
     "nombre": "Bethel",
     "url": "http://172.1.254.254:80/live/bethel/bethel/43.m3u8",
     "imagen": "https://play-lh.googleusercontent.com/IwNmyhjd_gKfEduH0T83hEkiuba3CuVSA1tV6cvY-rX584gPteouaeknIzqFqoauks4"
