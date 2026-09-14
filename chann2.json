@@ -130,7 +130,12 @@
     "imagen": "https://i.pinimg.com/736x/1f/1f/23/1f1f2398e2763d3df283c7747d2f4925.jpg"
   },
   {
-    "nombre": "SONY HD",
+    "nombre": "Warner HD",
+    "url": "http://172.1.254.254:80/live/warner/warner/42.m3u8",
+    "imagen": "https://i.vimeocdn.com/video/830971417-6012cdd839922de3e5e6d58a38eea2b0cd72d8f065c8254e1de6155d7c188304-d?f=webp"
+  },
+  {
+    "nombre": "Sony HD",
     "url": "http://172.1.254.254:80/live/sony/sony/44.m3u8",
     "imagen": "https://images.produ.com/noticias/0819/big-SonyChannelLOGO.jpg"
   },
