@@ -85,11 +85,6 @@
     "imagen": "https://logowik.com/content/uploads/images/cartoon-network5254.jpg"
   },
   {
-    "nombre": "Cartoonito HD",
-    "url": "http://172.1.254.254:80/live/cartoonito/cartoonito/34.m3u8",
-    "imagen": "https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg"
-  },
-  {
     "nombre": "Nickelodeon HD",
     "url": "http://172.1.254.254:80/live/nickhd/nickhd/1.m3u8",
     "imagen": "https://www.citypng.com/public/uploads/preview/hd-nick-nickelodeon-round-logo-icon-png-701751694968184duhavqprfo.png"
@@ -129,7 +124,6 @@
     "url": "http://172.1.254.254:80/live/amchd/amchd/2.m3u8",
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
   },
-
   {
     "nombre": "TNT HD",
     "url": "http://172.1.254.254:80/live/tnthd/tnthd/48.m3u8",
@@ -144,6 +138,11 @@
     "nombre": "Cinecanal HD",
     "url": "http://172.1.254.254:80/live/id/id/36.m3u8",
     "imagen": "https://i.pinimg.com/736x/1f/1f/23/1f1f2398e2763d3df283c7747d2f4925.jpg"
+  },
+  {
+    "nombre": "SONY HD",
+    "url": "http://172.1.254.254:80/live/sony/sony/44.m3u8",
+    "imagen": "https://images.produ.com/noticias/0819/big-SonyChannelLOGO.jpg"
   },
   {
     "nombre": "Bethel",
