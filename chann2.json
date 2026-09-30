@@ -26,7 +26,7 @@
   },
   {
     "nombre": "NTN24",
-    "url": "http://172.1.254.254:80/live/ntn24/ntn24/33.m3u8",
+    "url": "http://172.1.254.254:80/live/ntn24/ntn24/33.ts",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMokIK7rc_B8OhGanCURK2FCDNzSYmlTPkmw4LiTjv4PuHddn4YpBDJc&s=10"
   },
   {
@@ -171,12 +171,12 @@
   },
   {
     "nombre": "Star Channel",
-    "url": "http://172.1.254.254:80/live/starchannel/starchannel/53.m3u8",
+    "url": "http://172.1.254.254:80/live/starchannel/starchannel/53.ts",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uvfoX-fUI9twP7t0g-0NW5VD3oK7h-dqJMJMy-nwzCeRtNOB4UXUWU4&s=10"
   },
   {
     "nombre": "AXN",
-    "url": "http://172.1.254.254:80/live/axn/axn/54.m3u8",
+    "url": "http://172.1.254.254:80/live/axn/axn/54.ts",
     "imagen": "https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png"
   },
   {
