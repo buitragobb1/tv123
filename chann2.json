@@ -25,6 +25,11 @@
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5IdUXc9hma8oXNc2c8TW327oiu8WNn_3Gamo4NWeGA&s=10"
   },
   {
+    "nombre": "NTN24",
+    "url": "http://172.1.254.254:80/live/ntn24/ntn24/33.m3u8",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMokIK7rc_B8OhGanCURK2FCDNzSYmlTPkmw4LiTjv4PuHddn4YpBDJc&s=10"
+  },
+  {
     "nombre": "Telepacifico | CO",
     "url": "http://172.1.254.254:80/live/telepacifico/telepacifico/41.m3u8",
     "imagen": "https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png"
@@ -110,6 +115,11 @@
     "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-ZUOM6xBxUMw%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F_-I8vEkAWXw%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=9988d59d8e7420999ba9b65f4e2c17f7eac225c4b22e7508c65629fb40dac8a8"
   },
   {
+    "nombre": "RCN Novelas | CO",
+    "url": "http://172.1.254.254:80/live/rcnnovelas/rcnnovelas/37.m3u8",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-3xcSaFApsi6CJ8H31jXL2YTydWNdyI7t07Wy_4sGVNHeUqOgadd7HQ&s=10"
+  },
+  {
    "nombre": "Azteca Internacional",
    "url": "http://172.1.254.254:80/live/aztecainternacional/aztecainternacional/28.m3u8",
    "imagen": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.prensario.net%2FMultimedios%2Fimgs%2F63524_750.jpg%3Fv%3D3&f=1&nofb=1&ipt=5fa507a68f7be3143ebab62351b9a9e5fa966bd76bcbe130265b17fe7b4b1125"
@@ -153,6 +163,21 @@
     "nombre": "Sony HD",
     "url": "http://172.1.254.254:80/live/sony/sony/44.m3u8",
     "imagen": "https://images.produ.com/noticias/0819/big-SonyChannelLOGO.jpg"
+  },
+  {
+    "nombre": "Sony Movies",
+    "url": "http://172.1.254.254:80/live/sonymovies/sonymovies/52.m3u8",
+    "imagen": "https://tavilatam.com/wp-content/uploads/2022/03/TAVI_SonyMovies-muy-pronto.png"
+  },
+  {
+    "nombre": "Star Channel",
+    "url": "http://172.1.254.254:80/live/starchannel/starchannel/53.m3u8",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uvfoX-fUI9twP7t0g-0NW5VD3oK7h-dqJMJMy-nwzCeRtNOB4UXUWU4&s=10"
+  },
+  {
+    "nombre": "AXN",
+    "url": "http://172.1.254.254:80/live/axn/axn/54.m3u8",
+    "imagen": "https://cdn.worldvectorlogo.com/logos/axn.svg"
   },
   {
     "nombre": "Bethel",
