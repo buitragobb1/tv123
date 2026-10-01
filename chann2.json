@@ -25,11 +25,6 @@
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5IdUXc9hma8oXNc2c8TW327oiu8WNn_3Gamo4NWeGA&s=10"
   },
   {
-    "nombre": "NTN24",
-    "url": "http://172.1.254.254:80/live/ntn24/ntn24/33.ts",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMokIK7rc_B8OhGanCURK2FCDNzSYmlTPkmw4LiTjv4PuHddn4YpBDJc&s=10"
-  },
-  {
     "nombre": "Telepacifico | CO",
     "url": "http://172.1.254.254:80/live/telepacifico/telepacifico/41.m3u8",
     "imagen": "https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png"
@@ -168,16 +163,6 @@
     "nombre": "Sony Movies",
     "url": "http://172.1.254.254:80/live/sonymovies/sonymovies/52.m3u8",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CZGSxlhfhwHiTUGxqzF94zfSyThY8Xezar9UW0hHtcG_5R6QV06kZ1Qz&s=10"
-  },
-  {
-    "nombre": "Star Channel",
-    "url": "http://172.1.254.254:80/live/starchannel/starchannel/53.ts",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uvfoX-fUI9twP7t0g-0NW5VD3oK7h-dqJMJMy-nwzCeRtNOB4UXUWU4&s=10"
-  },
-  {
-    "nombre": "AXN",
-    "url": "http://172.1.254.254:80/live/axn/axn/54.ts",
-    "imagen": "https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png"
   },
   {
     "nombre": "Bethel",
