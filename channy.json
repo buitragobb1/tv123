@@ -11,32 +11,32 @@
   },
   {
     "nombre": "CityTV | CO",
-    "url": "http://172.1.254.254:80/live/citytv/citytv/50.m3u8",
+    "url": "http://177.93.51.218:7749/1.m3u8",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBHd4PdV4VriM5O9XnHYZEDxaGrozhJMtEwBKt8uF7g-tV75zkcBwa4k&s=10"
   },
   {
     "nombre": "Canal Institucional",
-    "url": "http://172.1.254.254:80/live/canalinstitucional/canalinstitucional/12.m3u8",
+    "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
     "imagen": "https://i.postimg.cc/wtvp3XJj/CANAL-INSTITUCIONAL.jpg"
   },
   {
     "nombre": "Señal Colombia",
-    "url": "http://172.1.254.254:80/live/scolombia/scolombia/21.m3u8",
+    "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5IdUXc9hma8oXNc2c8TW327oiu8WNn_3Gamo4NWeGA&s=10"
   },
   {
     "nombre": "Telepacifico | CO",
-    "url": "http://172.1.254.254:80/live/telepacifico/telepacifico/41.m3u8",
+    "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/023/playlist.m3u8",
     "imagen": "https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png"
   },
   {
     "nombre": "Canal 2 Yopal",
-    "url": "http://172.1.254.254:80/live/canal2/canal2/8.m3u8",
+    "url": "http://131.221.41.94/hls/canal2.m3u8",
     "imagen": "https://i.postimg.cc/hJjBhLx4/CANAL-DOS.jpg"
   },
   {
     "nombre": "Suram TV | CO",
-    "url": "http://172.1.254.254:80/live/suramtv/suramtv/9.m3u8",
+    "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
     "imagen": "https://i.postimg.cc/DWZTmrsS/SURAM-TV.jpg"
   },
   {
