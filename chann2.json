@@ -70,6 +70,11 @@
     "imagen": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
   },
   {
+    "nombre": "Discovery World HD",
+    "url": "http://172.1.254.254:80/live/fx/fx/55.m3u8",
+    "imagen": "https://images.seeklogo.com/logo-png/35/1/discovery-world-logo-png_seeklogo-355484.png"
+  },
+  {
     "nombre": "History Channel HD",
     "url": "http://172.1.254.254:80/live/history/history/51.m3u8",
     "imagen": "https://play-lh.googleusercontent.com/C-AXUSiqmHb1K6HnJIths5YSsfYVfmZrNB3b6yuxEIvvqcxkmrHBcWEPkqLhlNk6gDZrSE1r92HIWMlIxWUjOQ"
