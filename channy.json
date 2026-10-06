@@ -65,6 +65,11 @@
     "imagen": "https://play-lh.googleusercontent.com/C-AXUSiqmHb1K6HnJIths5YSsfYVfmZrNB3b6yuxEIvvqcxkmrHBcWEPkqLhlNk6gDZrSE1r92HIWMlIxWUjOQ"
   },
   {
+    "nombre": "Discovery World HD",
+    "url": "http://172.1.254.254:80/live/fx/fx/55.m3u8",
+    "imagen": "https://images.seeklogo.com/logo-png/35/1/discovery-world-logo-png_seeklogo-355484.png"
+  },
+  {
     "nombre": "RT Documentales",
     "url": "http://172.1.254.254:80/live/rt/rt/40.m3u8",
     "imagen": "https://actualidad.rt.com/static/img/og/logo-rt-black.jpg"
