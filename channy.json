@@ -10,9 +10,14 @@
     "imagen": "https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s900-c-k-c0x00ffffff-no-rj"
   },
   {
-    "nombre": "CityTV | CO",
-    "url": "http://177.93.51.218:7749/1.m3u8",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBHd4PdV4VriM5O9XnHYZEDxaGrozhJMtEwBKt8uF7g-tV75zkcBwa4k&s=10"
+    "nombre": "La Kalle",
+    "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
+    "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/61f954d/2147483647/strip/true/crop/1200x630+0+0/resize/360x189!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2F7b%2F34cfce694049b6db4b6079f86cf8%2Fla-kalle.jpg"
+  },
+  {
+    "nombre": "DISCOVERY HD",
+    "url": "http://177.93.51.218:7750/28.m3u8",
+    "imagen": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
   },
   {
     "nombre": "Canal Institucional",
@@ -53,11 +58,6 @@
     "nombre": "NAT GEO HD",
     "url": "http://172.1.254.254:80/live/natgeohd/natgeohd/7.m3u8",
     "imagen": "https://i.postimg.cc/Jy2WXsc7/NAT-GEO.jpg"
-  },
-  {
-    "nombre": "DISCOVERY HD",
-    "url": "http://172.1.254.254:80/live/discoveryhd/discoveryhd/47.m3u8",
-    "imagen": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg"
   },
   {
     "nombre": "History Channel HD",
