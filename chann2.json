@@ -25,9 +25,19 @@
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5IdUXc9hma8oXNc2c8TW327oiu8WNn_3Gamo4NWeGA&s=10"
   },
   {
+    "nombre": "Canal 1",
+    "url": "http://172.1.254.254:80/live/canal1/canal1/39.m3u8",
+    "imagen": "https://logosandtypes.com/wp-content/uploads/2022/03/Canal-1.png"
+  },
+  {
     "nombre": "Telepacifico | CO",
     "url": "http://172.1.254.254:80/live/telepacifico/telepacifico/41.m3u8",
     "imagen": "https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png"
+  },
+  {
+    "nombre": "La Kalle",
+    "url": "http://172.1.254.254:80/live/lakalle/lakalle/38.m3u8",
+    "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/61f954d/2147483647/strip/true/crop/1200x630+0+0/resize/360x189!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2F7b%2F34cfce694049b6db4b6079f86cf8%2Fla-kalle.jpg"
   },
   {
     "nombre": "Canal 2 Yopal",
