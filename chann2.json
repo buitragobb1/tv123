@@ -25,9 +25,9 @@
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5IdUXc9hma8oXNc2c8TW327oiu8WNn_3Gamo4NWeGA&s=10"
   },
   {
-    "nombre": "Canal 1",
-    "url": "http://172.1.254.254:80/live/canal1/canal1/39.m3u8",
-    "imagen": "https://logosandtypes.com/wp-content/uploads/2022/03/Canal-1.png"
+    "nombre": "Tele Islas",
+    "url": "http://172.1.254.254:80/live/teleislas/teleislas/58.m3u8",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR210TztZjEjeorCmW3Z_N9ZSbVtvN0j8XBkFDYdYYVQ-9IYSkatGMy60aI&s=10"
   },
   {
     "nombre": "Telepacifico | CO",
@@ -115,9 +115,9 @@
     "imagen": "https://media.sketchfab.com/models/5cabcabf3c7b4d5180275188af0bec7b/thumbnails/0e60648b179a4c8e9bfa80a5398c3d66/00abd2c39348443594b4173622ce4a4a.jpeg"
   },
   {
-    "nombre": "Univision HD | CO",
+    "nombre": "Las Estrellas",
     "url": "http://172.1.254.254:80/live/pasioneshd/pasioneshd/19.m3u8",
-    "imagen": "https://logosandtypes.com/wp-content/uploads/2020/08/Univision.png"
+    "imagen": "https://st1.uvnimg.com/6a/34/43170cc70baee621d09e0c70ba95/las-estrellas.jpg"
   },
   {
     "nombre": "RCN Mas | CO",
