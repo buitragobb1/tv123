@@ -185,6 +185,16 @@
     "imagen": "https://play-lh.googleusercontent.com/IwNmyhjd_gKfEduH0T83hEkiuba3CuVSA1tV6cvY-rX584gPteouaeknIzqFqoauks4"
   },
   {
+    "nombre": "ETWN",
+    "url": "http://172.1.254.254:80/live/etwn/etwn/56.m3u8",
+    "imagen": "https://www.ewtn.com/images/ewtn-stream-catholic-share.jpg"
+  },
+  {
+    "nombre": "Cristo Vision",
+    "url": "http://172.1.254.254:80/live/cristovision/cristovision/57.m3u8",
+    "imagen": "https://i.ytimg.com/vi/6OdoiTb0Kck/sddefault.jpg?v=615e1eb8"
+  },
+  {
    "nombre": "Mr. Beam Anime",
    "url": "http://172.1.254.254:80/live/mrbeam/mrbeam/29.m3u8",
    "imagen": "https://m.media-amazon.com/images/M/MV5BZmY5MjE0ZGItY2Q0My00ZWI5LWJmYTEtYWUyMzFkY2FmZDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
