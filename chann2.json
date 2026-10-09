@@ -2,7 +2,12 @@
   {
     "nombre": "CARACOL TV HD",
     "url": "http://172.1.254.254:80/live/caracolhd/caracolhd/3.m3u8",
-"imagen": "https://w7.pngwing.com/pngs/993/163/png-transparent-logo-caracol-television-global-and-local-televangelism-television-telepacifico-tv-logos-television-blue-text.png"
+    "imagen": "https://w7.pngwing.com/pngs/993/163/png-transparent-logo-caracol-television-global-and-local-televangelism-television-telepacifico-tv-logos-television-blue-text.png"
+  },
+  {
+    "nombre": "CARACOL TV HD",
+    "url": "http://190.61.47.54:8000/play/a01e/index.m3u8",
+    "imagen": "https://w7.pngwing.com/pngs/993/163/png-transparent-logo-caracol-television-global-and-local-televangelism-television-telepacifico-tv-logos-television-blue-text.png"
   },
   {
     "nombre": "RCN HD",
