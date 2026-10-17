@@ -175,11 +175,6 @@
     "imagen": "https://images.produ.com/noticias/0819/big-SonyChannelLOGO.jpg"
   },
   {
-    "nombre": "Sony Movies",
-    "url": "http://172.17.254.254:80/live/sonymovies/sonymovies/52.m3u8",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CZGSxlhfhwHiTUGxqzF94zfSyThY8Xezar9UW0hHtcG_5R6QV06kZ1Qz&s=10"
-  },
-  {
     "nombre": "Bethel",
     "url": "http://172.17.254.254:80/live/bethel/bethel/43.m3u8",
     "imagen": "https://play-lh.googleusercontent.com/IwNmyhjd_gKfEduH0T83hEkiuba3CuVSA1tV6cvY-rX584gPteouaeknIzqFqoauks4"
