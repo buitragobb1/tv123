@@ -1,7 +1,7 @@
 [
   {
     "nombre": "CARACOL TV HD",
-    "url": "http://172.20.2.254:8080/live/caracolhd/caracolhd/1.m3u8",
+    "url": "http://172.20.2.254:80/live/caracolhd/caracolhd/1.m3u8",
     "imagen": "https://w7.pngwing.com/pngs/993/163/png-transparent-logo-caracol-television-global-and-local-televangelism-television-telepacifico-tv-logos-television-blue-text.png"
   },
   {
