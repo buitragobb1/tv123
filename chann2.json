@@ -140,8 +140,23 @@
    "imagen": "https://media1.s-nbcnews.com/i/newscms/2020_20/3352176/telemundo-social-default_532a91758ed401956d0f979791e46545.png?ramen_itok=iqwQftIcTf"
   },
   {
-   "nombre": "ENT TV",
-   "url": "http://172.17.254.254:80/live/ent/ent/48.m3u8",
+   "nombre": "ENT Channel",
+   "url": "http://172.17.254.254:80/live/ent/ent/24.m3u8",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
+  },
+  {
+   "nombre": "ENT Movies",
+   "url": "http://172.17.254.254:80/live/entmovies/entmovies/39.m3u8",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
+  },
+  {
+   "nombre": "ENT Family",
+   "url": "http://172.17.254.254:80/live/entfamily/entfamily/52.m3u8",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
+  },
+  {
+   "nombre": "ENT Extreme",
+   "url": "http://172.17.254.254:80/live/entxtreme/entxtreme/44.m3u8",
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
   },
   {
