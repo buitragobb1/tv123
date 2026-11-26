@@ -160,6 +160,16 @@
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
   },
   {
+   "nombre": "ENT Music",
+   "url": "http://172.17.254.254:80/live/entmusic/entmusic/5.m3u8",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
+  },
+  {
+   "nombre": "ENT Comedy",
+   "url": "http://172.17.254.254:80/live/entcomedy/entcomedy/6.m3u8",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_eU2WgBs46DLyrISbcaGVplopoLeZmX6q-J47XzjKA&s"
+  },
+  {
     "nombre": "AMC HD",
     "url": "http://172.17.254.254:80/live/amchd/amchd/2.m3u8",
     "imagen": "https://cdn.aptoide.com/imgs/c/4/0/c40d0afdb541dfb32f4ff9e1cd8a2a3a_fgraphic.png"
